@@ -1,9 +1,11 @@
 +++
 archetype = "chapter"
 chapter = true
-title = "Introduction"
+title = "Basic Python"
 pre = "<b>1. </b>"
 weight = 1
 +++
 
-Lorem Ipsum.
+### Chapter 1
+
+# Basic Python
