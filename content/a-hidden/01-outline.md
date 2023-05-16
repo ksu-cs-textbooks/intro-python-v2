@@ -22,7 +22,7 @@ weight: 10
   * assignment statements
   * variable naming rules & conventions
   * swap?
-* Input
+* Input??? (move later?)
   * Prompt for input and store in variable
 * Reading Code?
 * Code Tracing?
@@ -38,7 +38,7 @@ weight: 10
 * Numerical values
   * Integers
   * Floating point
-  * Converting (to/from strings and values)
+  * Converting (to/from strings and values)??
 * Operators
   * Basic Math
   * Introduce %, // and **
@@ -51,9 +51,7 @@ weight: 10
 * DAT - 2.1 Binary Numbers, 2.4 Using Programs with Data
 * AAP - 3.1 Variables & Assignments, 3.3 Mathematical Expressions, 3.12 Calling Procedures, 3.13 Developing Procedures
 
-# Week 3 - HW 1 Interest Calculator
-
-# Week 4 - Strings
+# Week 3 - Strings & Input
 
 * More Complex Inputs
 * String Operators
@@ -66,13 +64,16 @@ weight: 10
 * DAT - 2.4 Using Programs with Data
 * AAP - 3.1 Variables & Assignments, 3.3 Mathematical Expressions, 3.4 Strings, 3.12 Calling Procedures
 
-# Week 5 - Conditionals
+# Week 4 - HW 1 Interest Calculator
+
+# Week 5 - Conditionals (1 chapter)
 
 # Week 6 - HW 2 Cash Register
 
 # Week 7 - Nested Conditionals
 
-# Week 8 - Loops
+# Week 8 - Loops (1 chapter) - just while loops?
+ - Loop patterns
 
 # Week 9 - HW 3 Finite State Machine?
 
