@@ -23,11 +23,17 @@ print(c)
 ```
 
 {{% expand "Answer" %}}
+
+{{% notice primary "1.4 Answer" "check" %}}
+
 The correct answer is:
 
 ```tex
 two three one
 ```
+
+{{% /notice %}}
+
 {{% /expand %}}
 
 #### 1.5 Constructing Code
@@ -55,6 +61,9 @@ print("and a", end=" ")
 ```
 
 {{% expand "Answer" %}}
+
+{{% notice primary "1.5 Answer" "check" %}}
+
 One possible answer is given below:
 
 ```python
@@ -68,6 +77,9 @@ x = "3"
 print("and a", end=" ")
 print(x)
 ```
+
+{{% /notice %}}
+
 {{% /expand %}}
 
 #### 1.6 Writing Code
@@ -95,6 +107,9 @@ print(a)
 Complete the Python program by writing code where the `# more code goes here` comment is found so that the desired output is produced. See if you can do it by only using assignment statements and variables, without using any new string values. (_Hint: you'll need to create a least one new variable!_)
 
 {{% expand "Answer" %}}
+
+{{% notice primary "1.6 Answer" "check" %}}
+
 One possible answer is given below:
 
 ```python
@@ -113,5 +128,7 @@ print(a)
 ```
 
 This problem demonstrates the typical process for swapping variables!
+
+{{% /notice %}}
 
 {{% /expand %}}

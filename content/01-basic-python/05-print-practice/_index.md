@@ -19,6 +19,9 @@ print("KSU!\nGo Cats!")
 ```
 
 {{% expand "Answer" %}}
+
+{{% notice primary "1.1 Answer" "check" %}}
+
 The correct output:
 
 ```tex
@@ -27,6 +30,9 @@ Manhattan KS 66506
 KSU!
 Go Cats!
 ```
+
+{{% /notice %}}
+
 {{% /expand %}}
 
 #### 1.2 Constructing Code
@@ -52,6 +58,8 @@ print("*", end=" ")
 
 {{% expand "Answer" %}}
 
+{{% notice primary "1.2 Answer" "check" %}}
+
 One solution:
 
 ```python
@@ -62,6 +70,9 @@ print("*", end=" ")
 print("*", end=" ")
 print("*")
 ```
+
+{{% /notice %}}
+
 {{% /expand %}}
 
 #### 1.3 Writing Code
@@ -69,6 +80,9 @@ print("*")
 Write a Python program that will display the last five letters of the alphabet, one per line.
 
 {{% expand "Answer" %}}
+
+{{% notice primary "1.3 Answer" "check" %}}
+
 One possible answer is shown below:
 
 ```python
@@ -80,5 +94,7 @@ print("z")
 ```
 
 Many others are possible!
+
+{{% /notice %}}
 
 {{% /expand %}}

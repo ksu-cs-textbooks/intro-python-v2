@@ -7,7 +7,7 @@ weight: 10
 # Week 1 - Basic Python
 
 * Using the Terminal
-  * File Systems?
+  * File Systems? <--
 * Hello World
   * Print statement
   * Saving, running
@@ -21,10 +21,10 @@ weight: 10
   * String variables only?
   * assignment statements
   * variable naming rules & conventions
-  * swap?
+  * swap? <--
 * Reading Code?
 * Code Tracing?
-  * Expressions?
+  * Expressions? <--
 
 ## AP Alignment
 
