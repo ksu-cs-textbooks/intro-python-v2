@@ -22,8 +22,6 @@ weight: 10
   * assignment statements
   * variable naming rules & conventions
   * swap?
-* Input??? (move later?)
-  * Prompt for input and store in variable
 * Reading Code?
 * Code Tracing?
   * Expressions?
@@ -53,6 +51,8 @@ weight: 10
 
 # Week 3 - Strings & Input
 
+* Input??? (move later?)
+  * Prompt for input and store in variable
 * More Complex Inputs
 * String Operators
   * Concatenation

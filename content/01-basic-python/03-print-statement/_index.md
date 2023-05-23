@@ -6,9 +6,11 @@ weight: 30
 
 {{% youtube yveXTTVXzZ0 %}}
 
-<!-- TODO rewrite -->
+#### Resources
 
-First, let's start by introducing some important vocabulary terms:
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+
+Before we learn to write our first program, let's start by introducing some important vocabulary terms:
 
 * **string**: A **string** in programming is any text that is stored as a value. We typically represent strings by placing them inside double quotes `""` in our code and elsewhere.
 * **value**: A **value** is a piece of data that our program is storing and manipulating. In our pseudocode, values consist of either numbers or strings.
@@ -16,7 +18,7 @@ First, let's start by introducing some important vocabulary terms:
 * **statement**: A **statement** refers to a piece of code that performs an action, but doesn't result in any value. Most complete lines of code are considered statements.
 * **expression**: An **expression**, on the other hand, is a piece of code that, when evaluated, will result in a value that can be used or stored. An expression can even contain multiple expressions inside of it!
 
-Now that we have learned a few of the important terms used in programming, we can start to discuss the various statements in Python. 
+We'll use these terms to help us understand different parts of the code in our programs. Now that we've covered them them, we can start to discuss the various statements in Python. 
 
 The first statement that we'll cover in the Python programming language is the `print(expression)` statement. This statement is used to display output to the user via the terminal. So, when Python runs this statement, it will evaluate the `expression` to a single value, and then print that value to the terminal. 
 
@@ -42,13 +44,13 @@ Let's go through the full process of writing and running that program in Python!
 
 The first step to create a program in Python is to create a text file to store the code. This file should have the file extension `.py` to indicate that it is a Python program. So, we'll need to create that file either on our computers or in Codio or another tool if we are using one. For example, in Codio we can create the file in the `python` folder by right-clicking on it and selecting the **New File** option. We'll name the file `hello.py`:
 
-![New File](.guides/img/new_file.png)
+![New File](/images/01/new_file.png)
 
-Once we've created that file, we can then open it by clicking on it. In Codio and in other online tools, it will open in the built-in editor. On a computer, we'll need to open it in a text editor specifically designed for programming. We recommend either [Atom](https://atom.io/) or [Visual Studio Code](https://code.visualstudio.com/), which are available on all platforms. Tools like the built-in Notepad tool on Windows, or a word processor like Word or Pages do not work for this task.
+Once we've created that file, we can then open it by clicking on it. In Codio and in other online tools, it will open in the built-in editor. On a computer, we'll need to open it in a text editor specifically designed for programming. We recommend  [Visual Studio Code](https://code.visualstudio.com/), which is available on all platforms. Tools like the built-in Notepad tool on Windows, or a word processor like Word or Pages do not work for this task.
 
 In that file, we'll simply place the code shown above, like this:
 
-![Code](.guides/img/code.png)
+![Code](/images/01/code.png)
 
 That's all there is to it!
 
@@ -58,7 +60,7 @@ Once we've written the code, we can open the **Terminal** and navigate to where 
 
 Once we are in the correct directory, we can use the `ls` command to see the contents of that directory. If we see our `hello.py` file, we are in the correct location:
 
-![Show Python File](.guides/img/file.png)
+![Show Python File](/images/01/file.png)
 
 If we don't see our file, we should make sure we've saved it and that our current working directory is the same location as where the file is stored. 
 
@@ -70,7 +72,7 @@ python3 hello.py
 
 If everything works correctly, we should see output similar to this:
 
-![Hello World Output](.guides/img/hello.png)
+![Hello World Output](/images/01/hello.png)
 
 There we go! We've just run our first program in Python! That's a great first step to take. 
 

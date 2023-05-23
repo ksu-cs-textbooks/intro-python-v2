@@ -6,7 +6,9 @@ weight: 20
 
 {{% youtube H0ZDBdT1Opw %}}
 
-<!-- TODO rewrite -->
+#### Resources
+
+* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
 
 First, let's start with the basics of writing Python code in a file and running those files. This is the first major step toward actually writing a real program, but it can definitely be difficult the first time without prior experience to rely on. So, let's go through it step by step and make sure we know how to run our programs in Python.
 
@@ -32,7 +34,7 @@ Hopefully, that command should produce some output that looks like this:
 
 ![Python Version](/images/01/python_version.png)
 
-Here, we see that the currently installed Python version is 3.6.9. As long as your Python version number begins with a 3, you have correctly installed Python and are able to run it from the terminal. So, we can continue to the next part of this lab.
+Here, we see that the currently installed Python version is 3.10.6. As long as your Python version number begins with a 3, you have correctly installed Python and are able to run it from the terminal. So, we can continue to the next part of this lab.
 
 If you aren't able to run Python or aren't sure that you have the correct version, contact the instructor for assistance!
 
