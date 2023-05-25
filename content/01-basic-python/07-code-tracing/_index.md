@@ -31,9 +31,7 @@ print(x, end=", ")
 print(y)
 ```
 
-In Codio, we can see the visualization in a tab to the left. It will visualize the content in the `tutor.py` file in the `python` directory, so make sure that the contents of the `tutor.py` file match the example above before continuing.
-
-Outside of Codio, this visualization can be found by clicking this [Python Tutor Link](https://pythontutor.com/visualize.html#code=x%20%3D%20%22Hello%22%0Ay%20%3D%20x%0Aprint%28y,%20end%3D%22%20%22%29%0Ax%20%3D%20%22World%22%0Aprint%28x,%20end%3D%22,%20%22%29%0Aprint%28y%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) to open Python Tutor on the web.
+This visualization can be found by clicking this [Python Tutor Link](https://pythontutor.com/visualize.html#code=x%20%3D%20%22Hello%22%0Ay%20%3D%20x%0Aprint%28y,%20end%3D%22%20%22%29%0Ax%20%3D%20%22World%22%0Aprint%28x,%20end%3D%22,%20%22%29%0Aprint%28y%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) to open Python Tutor on the web.
 
 ## Stepping Through Code
 
