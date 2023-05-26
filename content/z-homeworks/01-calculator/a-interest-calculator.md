@@ -140,7 +140,7 @@ In the examples below, let's assume that the user input the following values for
 
 ### 4. Spending Output
 
-Finally, the program should then compute the number of years that the user will be able to spend that amount while in retirement, and the amount left over, and print that to the terminal. Continuing the example above, this function would create this possible output:
+Finally, the program should then compute the number of years that the user will be able to spend that amount while in retirement, and the amount left over, and print that to the terminal. Continuing the example above, this code would create this possible output:
 
 ```tex
 You will be able to spend $1000.00 per year for 6 years.
@@ -177,7 +177,7 @@ Notice that the start and end of the documentation comment uses three double-quo
 
 Below is a screenshot showing a sample execution of the model solution for this homework assignment. Your submission should have similar functionality and output, but the text for input prompts may differ slightly:
 
-![Sample Run](/images/hw1/interest.png)
+![Sample Run](/images/hw1/interest.png?classes=border,shadow)
 
 ## Submitting
 

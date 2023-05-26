@@ -68,16 +68,16 @@ weight: 10
 
 # Week 5 - Conditionals (1 chapter)
 
-# Week 6 - HW 2 Cash Register
+# Week 6 - Nested Conditionals
 
-# Week 7 - Nested Conditionals
+# Week 7 - HW 2 Cash Register
 
 # Week 8 - Loops (1 chapter) - just while loops?
  - Loop patterns
 
-# Week 9 - HW 3 Finite State Machine?
+# Week 9 - Nested Loops
 
-# Week 10 - Nested Loops
+# Week 10 - HW 3 Finite State Machine?
 
 # Week 11 - Functions
 
