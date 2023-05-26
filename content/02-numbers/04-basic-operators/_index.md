@@ -4,6 +4,8 @@ pre: "4. "
 weight: 40
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube  %}}
 
 #### Resources
@@ -26,7 +28,7 @@ Thankfully, these operators should all be very familiar to us from mathematics a
 
 ## Addition and Subtraction
 
-For starters, we can use the plus `+` and minus `-` symbols as operators to perform addition and subtraction in pseudocode, just like in math. For example, we can add two variables together to create a third variable as shown in this example:
+For starters, we can use the plus `+` and minus `-` symbols as operators to perform addition and subtraction in Python, just like in math. For example, we can add two variables together to create a third variable as shown in this example:
 
 ```python
 a = 5
@@ -88,7 +90,7 @@ we would see this output:
 9.0
 ```
 
-What if the division would result in a remainder? In that case, we'll simply use decimal values in pseudocode so that the result is exactly correct. For example, if we try to divide {{< math >}}$ 19 ${{< /math >}} by {{< math >}}$ 5 ${{< /math >}}, as in this example:
+What if the division would result in a remainder? In that case, we'll simply use decimal values in Python so that the result is exactly correct. For example, if we try to divide {{< math >}}$ 19 ${{< /math >}} by {{< math >}}$ 5 ${{< /math >}}, as in this example:
 
 ```python
 a = 19
