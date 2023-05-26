@@ -4,6 +4,8 @@ pre: "3. "
 weight: 30
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube yveXTTVXzZ0 %}}
 
 #### Resources
