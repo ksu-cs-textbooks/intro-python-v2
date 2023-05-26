@@ -4,6 +4,8 @@ pre: "1. "
 weight: 10
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube  %}}
 
 #### Resources
@@ -26,7 +28,7 @@ x = 5
 
 That statement will store the integer value {{< math >}}$ 5 ${{< /math >}} in the variable `x`. Notice that the value {{< math >}}$ 5 ${{< /math >}} does not have quotation marks around it. This is because we want to store the integer value {{< math >}}$ 5 ${{< /math >}} and not the string value `"5"` in the variable. Also, as we learned earlier, this is why we cannot create variable names that begin with a number - since numerical values start with a number, this is how Python can tell the difference between a numerical value and a variable. 
 
-Just like in pseudocode, we can also store negative numbers in a variable by placing a negative symbol `-` in front of the numerical value:
+We can also store negative numbers in a variable by placing a negative symbol `-` in front of the numerical value:
 
 ```python
 y = -8

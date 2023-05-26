@@ -4,6 +4,8 @@ pre: "4. "
 weight: 40
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube BhpTb-i4ELg %}}
 
 #### Resources
@@ -28,7 +30,7 @@ Just like our "Hello World" program, when we run this program, we'll see that st
 a b c d
 ```
 
-Ok, that makes sense based on what we've previously seen. The `p[rint(expression)` statement will simply display any string expression in our user interface.
+Ok, that makes sense based on what we've previously seen. The `print(expression)` statement will simply display any string expression in our user interface.
 
 Of course, programs can consist of multiple statements or lines of code. So, what if we write a program that contains multiple `print(expression)` statements, like this one:
 

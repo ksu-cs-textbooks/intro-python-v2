@@ -6,7 +6,7 @@ weight: 70
 
 {{% youtube 1o3jRgKjZZI %}}
 
-<!-- Video is good as-is? -->
+<!-- Video is good as-is -->
 
 #### Resources
 

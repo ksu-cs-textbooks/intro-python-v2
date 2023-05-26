@@ -4,6 +4,9 @@ pre: "3. "
 weight: 30
 ---
 
+<!-- EAV raw complete -->
+
+
 {{% youtube  %}}
 
 #### Resources
@@ -39,7 +42,7 @@ Based on that output, we can assume that the variable `x` is the `str` data type
 
 ## Converting Between Data Types
 
-We can also convert values between the various data types in Python. To do this, there are special functions that match the name of the data types themselves, just like we saw in pseudocode. So, to convert any value to a string, we can use the `str()` function. Likewise, to convert anything to an integer, we can use the `int()` function. And finally, to convert anything to a floating-point value, we can use the `float()` function.
+We can also convert values between the various data types in Python. To do this, there are special functions that match the name of the data types themselves. So, to convert any value to a string, we can use the `str()` function. Likewise, to convert anything to an integer, we can use the `int()` function. And finally, to convert anything to a floating-point value, we can use the `float()` function.
 
 So, we can extend the previous example a bit by showing how we can convert values between different data types:
 
