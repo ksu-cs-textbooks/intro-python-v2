@@ -33,10 +33,10 @@ Hello Willie Wildcat
 
 We can see this even more clearly in the terminal. When we first run the program, we'll see the prompt `"Enter your name:"` printed, followed by a cursor prompting the user to enter something:
 
-![Terminal Before Input](/images/03/terminal1.png)
+![Terminal Before Input](/images/03/terminal1.png?classes=border,shadow)
 
 Once the user types the input and presses ENTER, the rest of the program will run:
 
-![Terminal Before Input](/images/03/terminal2.png)
+![Terminal Before Input](/images/03/terminal2.png?classes=border,shadow)
 
 Now we see the cursor is at the next command prompt, ready to run another program.
