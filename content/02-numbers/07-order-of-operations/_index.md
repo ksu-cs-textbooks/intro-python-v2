@@ -4,6 +4,8 @@ pre: "7. "
 weight: 70
 ---
 
+
+
 {{% youtube  %}}
 
 #### Resources
@@ -33,7 +35,7 @@ Looking at our order of operations, the first step is to handle any expressions 
 x = 8 / 4 + 5 * 4 - 7 % 4
 ```
 
-Then, we'll go right to left and perform any multiplication, division, and modulo operations. This means we'll evaluate `8 / 4`, `5 * 4` and `7 % 4` and replace them with the resulting values:
+Then, we'll go left to right and perform any multiplication, division, and modulo operations. This means we'll evaluate `8 / 4`, `5 * 4` and `7 % 4` and replace them with the resulting values:
 
 ```python
 x = 2.0 + 20 - 3
