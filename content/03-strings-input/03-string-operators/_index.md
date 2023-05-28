@@ -4,6 +4,8 @@ pre: "3. "
 weight: 30
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube  %}}
 
 #### Resources
@@ -25,7 +27,7 @@ print(first + second)
 When executed, this code will display this output:
 
 ```tex
-Hello World
+HelloWorld
 ```
 
 As we can see, using the `+` operator in Python to concatenate two strings together is a quick and easy way to simplify our print statements.

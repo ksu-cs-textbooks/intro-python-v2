@@ -4,6 +4,9 @@ pre: "1. "
 weight: 10
 ---
 
+<!-- EAV raw complete -->
+
+
 {{% youtube  %}}
 
 #### Resources
@@ -22,7 +25,7 @@ print("Hello ", end="")
 print(name)
 ```
 
-Here, we see that the `input()` function actually accepts a message as an argument, which will be displayed to the user. After the message is printed, the user will be given a cursor to enter text immediately after it. Once the user presses the ENTER key, the `input()` function will read the input that was entered and store it as a string value or `str` data type in the `name` variable. 
+Here, we see that the `input()` function actually accepts a message as an argument, which will be displayed to the user. After the message is printed, the user will be given a cursor to enter text immediately after it. Once the user presses the ENTER key, the `input()` function will read the input that was entered and store it as a string value or `str` data type in the variable called `name`. 
 
 For example, if the user inputs `Willie Wildcat` at the prompt, this program's output will look like this:
 
