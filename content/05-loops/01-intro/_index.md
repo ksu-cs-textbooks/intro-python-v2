@@ -4,6 +4,9 @@ pre: "1. "
 weight: 10
 ---
 
+<!-- EAV raw complete -->
+
+
 {{% youtube UmbhQzGhYso %}}
 
 #### Resources
@@ -12,7 +15,7 @@ weight: 10
 
 Over the last few labs, we've explored how we can change the **control flow** of our programs using conditional statements. A program that doesn't contain any conditional statements will have a linear control flow. Each time we run the program, it will execute the same steps in the same order, but it may use different data based on input from the user.
 
-When a program contains a conditional statement, its control flow can split into different **branches**. This means that each program may take a different **path** through the program, but it will eventually reach the end. There is no way to go back and repeat a step that has already been done!
+When a program contains a conditional statement, its control flow can split into different **branches**. This means that each program execution may take a different **path** through the program, but it will eventually reach the end. There is no way to go back and repeat a step that has already been done!
 
 In this lab, we're going to introduce the other important method for modifying the control flow of our programs - a **loop** or **iteration statement**. In programming, a **loop** is a construct that allows us to repeatedly execute the same piece of code, either for a set number of times, or while a particular Boolean condition is `true`. Each time we execute the code inside the loop, we call that an **iteration** of the loop. 
 
