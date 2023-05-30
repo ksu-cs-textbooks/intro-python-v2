@@ -3,7 +3,7 @@ archetype = "chapter"
 chapter = true
 hidden = true
 title = "Homework 3"
-pre = "<b>2. </b>"
+pre = "<b>3. </b>"
 weight = 3
 +++
 
