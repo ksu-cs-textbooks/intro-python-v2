@@ -44,6 +44,7 @@ while x != "quit":
     
     # locked state
     if state == "locked":
+        # can customize input prompt to be different for each state
         x = input("Enter \"coin\" or \"push\" to change state, or \"quit\" to quit: ")
 
         # coin transition
@@ -54,38 +55,31 @@ while x != "quit":
         # push transition
         elif x == "push":
             # do nothing
-            pass
+            print("The turnstile is locked!")
 
-        # quit transition
-        elif x == "quit":
-            # do nothing
-            pass
-
-        # invalid input
-        else:
+        # check for quit
+        elif x != "quit":
+            # invalid input
             print("Invalid input!")
 
     # unlocked state
     elif state == "unlocked":
+        # can customize input prompt to be different for each state
         x = input("Enter \"coin\" or \"push\" to change state, or \"quit\" to quit: ")
 
         # coin transition
         if x == "coin":
             # do nothing
-            pass
+            print("The turnstile is already unlocked!")
 
         # push transition
         elif x == "push":
             # change state
             state = "locked"
 
-        # quit transition
-        elif x == "quit":
-            # do nothing
-            pass
-
-        # invalid input
-        else:
+        # check for quit
+        elif x != "quit":
+            # invalid input
             print("Invalid input!")
 
     # unexpected state
@@ -97,7 +91,7 @@ print("Goodbye")
 
 This code uses a while loop so that the program will repeat indefinitely as long as the user does not input the `"quit"` command. Inside of the loop, there is a set of if statements that determine the current state. Each state has a prompt for input, which can be customized with the transitions allowed in that state. Then, there is a second set of if statements that will analyze the user's input and determine if a state transition is required. 
 
-Notice that some of the inputs do nothing, which is represented by the `pass` keyword in Python. These may be carefully removed without affecting the overall program, but they are included here for clarity.
+Notice that some of the inputs do nothing, so we just print a message letting the user know that nothing has changed. These may be carefully removed without affecting the overall program, but they are included here for clarity.
 
 There are many ways to implement a finite state machine in Python, and this is just one example. However, hopefully this example is a helpful structure that you can use to build the solution to this assignment.
 
