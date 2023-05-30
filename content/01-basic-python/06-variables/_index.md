@@ -4,9 +4,9 @@ pre: "6. "
 weight: 60
 ---
 
-<!-- EAV raw complete -->
+{{% youtube EwXHUdYOA6A %}}
 
-{{% youtube _iuCFOGvtP0 %}}
+<!-- Old: _iuCFOGvtP0 -->
 
 #### Resources
 
@@ -14,7 +14,7 @@ weight: 60
 
 Now that we've learned how to use the `print(expression)` statement, let's focus on the next major concept in Python, as well as any other programming language: **variables**. 
 
-The word **variable** is traditionally defined as a value that can change. We've seen variables like $x$ used in Algebraic equations like $x + 4 = 7$ to represent unknown values that we can try to work out. In programming a **variable** is defined as a way to store a value in a computer's memory so we can retrieve it later. One common way to think of variables is like a box in the real world. We can put something in the box, representing our value. Likewise, we can write a name on the side of the box, corresponding to our variable's name. When we want to use the variable, we can get the value that it currently stores, and even change it to a different value. It's a pretty handy mental metaphor to keep in mind!
+The word **variable** is traditionally defined as a value that can change. We've seen variables like {{< math >}}$ x ${{< /math >}} used in Algebraic equations like {{< math >}}$ x + 4 = 7 ${{< /math >}} to represent unknown values that we can try to work out. In programming a **variable** is defined as a way to store a value in a computer's memory so we can retrieve it later. One common way to think of variables is like a box in the real world. We can put something in the box, representing our value. Likewise, we can write a name on the side of the box, corresponding to our variable's name. When we want to use the variable, we can get the value that it currently stores, and even change it to a different value. It's a pretty handy mental metaphor to keep in mind!
 
 In a later lab, we'll learn how to use operators to manipulate the values stored in variables, but for right now we're just going to focus on storing and retrieving data using variables.
 
