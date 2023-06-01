@@ -12,7 +12,7 @@ weight: 30
 
 ## Concatenate
 
-Python includes an operator that can be used to concatenate two strings together. We can use the plus symbol `+` between two strings to concatenate them together into a single string, making it much simpler to build more complex strings and outputs. 
+Python includes an operator that can be used to concatenate, or combine, two strings together, one after another. We can use the plus symbol `+` between two strings to concatenate them together into a single string, making it much simpler to build more complex strings and outputs. 
 
 A simple example is shown below:
 
