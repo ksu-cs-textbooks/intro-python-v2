@@ -14,7 +14,7 @@ Let's go through another worked example to see how we can translate a problem st
 
 ## Problem Statement
 
-Here's a short and simple game that can be played by two players:
+Here's a short and simple game that can be played by three players:
 
 > Three players each guess a positive integer greater than {{< math >}}$ 0 ${{< /math >}}, and then share them simultaneously. The winner is chosen following this formula:
 > * If any two players have chosen the same number, the game is a tie.
