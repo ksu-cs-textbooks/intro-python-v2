@@ -4,6 +4,8 @@ pre: "9. "
 weight: 90
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube g7quQJVplPs %}}
 
 #### Resources
@@ -119,7 +121,7 @@ for i in range(5):
     print("")
 ```
 
-Notice how the code structure is very similar? The outermost loop runs a given number of times, and then the inner loop's iterations are determined by the value of the outer loop's iterator variable. Since we know that the first example produces a triangle, we can guess that the program above runs in a similar way. So, the first iteration of the outer loop will run the inner loop once, then twice on the second iteration, and so on, all the way up to {{< math >}}$ 10 ${{< /math >}} iterations. If we sum up all the numbers from {{< math >}}$ 1 ${{< /math >}} to {{< math >}}$ 10 ${{< /math >}}, we get {{< math >}}$ 55 ${{< /math >}}. 
+Notice how the code structure is very similar? The outermost loop runs a given number of times, and then the inner loop's iterations are determined by the value of the outer loop's iterator variable. Since we know that the second example produces a triangle, we can guess that the program above runs in a similar way. So, the first iteration of the outer loop will run the inner loop once, then twice on the second iteration, and so on, all the way up to {{< math >}}$ 10 ${{< /math >}} iterations. If we sum up all the numbers from {{< math >}}$ 1 ${{< /math >}} to {{< math >}}$ 10 ${{< /math >}}, we get {{< math >}}$ 55 ${{< /math >}}. 
 
 Now let's run that code and see if we are correct:
 
