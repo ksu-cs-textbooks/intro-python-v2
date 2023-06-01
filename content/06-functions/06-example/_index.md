@@ -121,7 +121,7 @@ def main():
             sum = sum + i
             count = count + 1
         i = i + 1
-    print("The sum of the first {} prime numbers is {}".format(n, sum))
+    print(f"The sum of the first {n} prime numbers is {sum}")
 ```
 
 This program requires three additional variables. The variable `count` is used to keep track of the number of prime numbers found, so we'll increment it inside of the `if` statement each time we find a prime number. Likewise, the `sum` variable keeps track of the sum of the prime numbers, which we'll print at the end. Finally, we use `i` as our iterator variable, so we must make sure that we increment `i` each time the while loop iterates, outside of the if statement. We'll start `i` at {{< math >}}$ 2 ${{< /math >}}, since {{< math >}}$ 1 ${{< /math >}} is not a prime number mathematically. A _very_ common programming mistake is to forget to increment `i` outside the if statement, resulting in an infinite loop. Also, we chose to use a while loop instead of a for loop since our program's goal is to sum up the first `n` prime numbers, which is better expressed as a while loop instead of a for loop.
@@ -154,7 +154,7 @@ def main():
             sum = sum + i
             count = count + 1
         i = i + 1
-    print("The sum of the first {} prime numbers is {}".format(n, sum))
+    print(f"The sum of the first {n} prime numbers is {sum}")
 
 
 main()

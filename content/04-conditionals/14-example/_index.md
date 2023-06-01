@@ -33,9 +33,9 @@ p2 = int(input("Enter a positive integer for player 2: "))
 p3 = int(input("Enter a positive integer for player 3: "))
 
 # debugging statements
-print("player 1 chose {}".format(p1))
-print("player 2 chose {}".format(p2))
-print("player 3 chose {}".format(p3))
+print(f"player 1 chose {p1}")
+print(f"player 2 chose {p2}")
+print(f"player 3 chose {p3}")
 ```
 
 With this code in place, we've already created a Python program that we can run and test. So, before moving on, let's run this program at least once to verify that it works correctly. This will help us quickly detect and correct any initial errors in our program, and make it much easer to debug logic errors later on.
