@@ -200,6 +200,16 @@ Below are a couple of screenshots showing a sample execution of the model soluti
 
 ![Sample Run 2](/images/hw3/hw3b.png?classes=border,shadow)
 
+## Grading Rubric
+
+Your project will be graded according to the following rubric:
+
+* Initial State & State A: 10%
+* States B and C: 30%
+* State D: 30%
+* States E, F and G: 20%
+* Documentation Comments: 10%
+
 ## Submitting
 
 Once you have completed this program, submit your `homework3.py` file via Codio or the assignment on Canvas.
