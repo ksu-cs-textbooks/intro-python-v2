@@ -138,6 +138,15 @@ Below is a screenshot showing several sample executions of the model solution fo
 
 ![Sample Runs](/images/hw4/examples.png?classes=border,shadow)
 
+## Grading Rubric
+
+Your project will be graded according to the following rubric:
+
+* `two_inputs` function: 15%
+* `three_inputs` function: 15%
+* `main` function: 60%
+* Documentation Comments: 10%
+
 ## Submitting
 
 Once you have completed this program, submit your `homework4.py` file via Codio or the assignment on Canvas.

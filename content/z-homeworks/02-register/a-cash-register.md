@@ -290,6 +290,15 @@ Below are a couple of screenshots showing a sample execution of the model soluti
 
 ![Sample Run 2](/images/hw2/hw2b.png?classes=border,shadow)
 
+## Grading Rubric
+
+Your project will be graded according to the following rubric:
+
+* Getting Totals & Computing Subtotal: 40%
+* Not Enough Paid & Exact Amount Paid: 10%
+* Making CHange & Printing Outputs: 40%
+* Documentation Comments: 10%
+
 ## Submitting
 
 Once you have completed this program, submit your `homework2.py` file via Codio or the assignment on Canvas.

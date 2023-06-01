@@ -179,6 +179,16 @@ Below is a screenshot showing a sample execution of the model solution for this 
 
 ![Sample Run](/images/hw1/interest.png?classes=border,shadow)
 
+## Grading Rubric
+
+Your project will be graded according to the following rubric:
+
+* Interest & Savings Inputs: 20%
+* Interest Computations: 25%
+* Interest Outputs: 25%
+* Savings Computation & Output: 20%
+* Documentation Comments: 10%
+
 ## Submitting
 
 Once you have completed this program, submit your `homework1.py` file via Codio or the assignment on Canvas.
