@@ -6,7 +6,7 @@ weight: 10
 
 {{% youtube  %}}
 
-<!-- EAV: New video -->
+<!-- EAV: Raw completed -->
 
 #### Resources
 

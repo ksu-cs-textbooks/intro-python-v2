@@ -7,7 +7,7 @@ weight: 20
 {{% youtube Q3XiDHJlo1A %}}
 
 <!-- Old: Q3XiDHJlo1A -->
-<!-- EAV: Rerecord this one -->
+<!-- EAV: Raw complete -->
 
 #### Resources
 
