@@ -170,7 +170,7 @@ It may seem like we can simply do `row = new_row` in the `update_row()` method i
 
 {{% /notice %}}
 
-# Final Program
+## Final Program
 
 The last step is to simply update the for loop in our `main()` function to call the `update_row()` function and store the returned list reference back into the `row` variable. So, our final program looks like this.
 

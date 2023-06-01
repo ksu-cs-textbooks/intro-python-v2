@@ -122,7 +122,7 @@ One possible output is shown below:
 
 One possible solution is shown here:
 
-```
+```python
 def positive_input(n):
     x = int(input("Enter a positive integer greater than {}: ".format(n)))
     while x <= n:
