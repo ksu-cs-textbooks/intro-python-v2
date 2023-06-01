@@ -31,7 +31,7 @@ def foo(numbers):
 def main():
     print("First, we need the number of inputs.")
     n = positive_input()
-    print("Now enter {} numbers:".format(n))
+    print(f"Now enter {n} numbers:")
     numbers = []
     for i in range(n):
         numbers.append(positive_input())
@@ -124,10 +124,10 @@ One possible solution is shown here:
 
 ```python
 def positive_input(n):
-    x = int(input("Enter a positive integer greater than {}: ".format(n)))
+    x = int(input(f"Enter a positive integer greater than {n}: "))
     while x <= n:
         print("Invalid input!")
-        x = int(input("Enter a positive integer greater than {}: ".format(n)))
+        x = int(input(f"Enter a positive integer greater than {n}: "))
     return x
 
 

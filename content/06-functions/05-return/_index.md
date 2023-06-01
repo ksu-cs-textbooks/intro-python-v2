@@ -30,13 +30,13 @@ def main():
     text_two = input("Enter the second number: ")
     two = int(text_two)
     total = square_sum(one, two)
-    print("The sum of squares of {} and {} is {}".format(one, two, total))
+    print(f"The sum of squares of {one} and {two} is {total}")
 
 
 main()
 ```
 
-To truly understand how this program works, let's use Python Tutor to explore it step by step. Like before, copy the code into Python Tutor, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20square_sum%28one,%20two%29%3A%0A%20%20%20%20one%20%3D%20one%20*%20one%0A%20%20%20%20two%20%3D%20two%20*%20two%0A%20%20%20%20total%20%3D%20one%20%2B%20two%0A%20%20%20%20return%20total%0A%0A%0Adef%20main%28%29%3A%0A%20%20%20%20text_one%20%3D%20input%28%22Enter%20the%20first%20number%3A%20%22%29%0A%20%20%20%20one%20%3D%20int%28text_one%29%0A%20%20%20%20text_two%20%3D%20input%28%22Enter%20the%20second%20number%3A%20%22%29%0A%20%20%20%20two%20%3D%20int%28text_two%29%0A%20%20%20%20total%20%3D%20square_sum%28one,%20two%29%0A%20%20%20%20print%28%22The%20sum%20of%20squares%20of%20%7B%7D%20and%20%7B%7D%20is%20%7B%7D%22.format%28one,%20two,%20total%29%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) link. 
+To truly understand how this program works, let's use Python Tutor to explore it step by step. Like before, copy the code into Python Tutor, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20square_sum%28one,%20two%29%3A%0A%20%20%20%20one%20%3D%20one%20*%20one%0A%20%20%20%20two%20%3D%20two%20*%20two%0A%20%20%20%20total%20%3D%20one%20%2B%20two%0A%20%20%20%20return%20total%0A%0A%0Adef%20main%28%29%3A%0A%20%20%20%20text_one%20%3D%20input%28%22Enter%20the%20first%20number%3A%20%22%29%0A%20%20%20%20one%20%3D%20int%28text_one%29%0A%20%20%20%20text_two%20%3D%20input%28%22Enter%20the%20second%20number%3A%20%22%29%0A%20%20%20%20two%20%3D%20int%28text_two%29%0A%20%20%20%20total%20%3D%20square_sum%28one,%20two%29%0A%20%20%20%20print%28f%22The%20sum%20of%20squares%20of%20%7Bone%7D%20and%20%7Btwo%7D%20is%20%7Btotal%7D%22%29%0A%0A%0Amain%28%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false) link. 
 
 At the start, our Python Tutor trace will look like this:
 

@@ -113,14 +113,14 @@ def main():
     base = int(input("Enter a whole number: "))
     powers = {}
     for i in range(6):
-        powers["{}^{}".format(base, i)] = base ** i
+        powers[f"{base}^{i}"] = base ** i
     print(powers)
 
 
 main()
 ```
 
-This program will ask the user to provide a number as input, and then it will populate a dictionary where the key is a string representing a mathematical expression including that number, and the value will be the result of that expression. Let's trace through this program in Python Tutor. As always, you can copy and paste this code in Python Tutor, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20base%20%3D%20int%28input%28%22Enter%20a%20whole%20number%3A%20%22%29%29%0A%20%20%20%20powers%20%3D%20%7B%7D%0A%20%20%20%20for%20i%20in%20range%286%29%3A%0A%20%20%20%20%20%20%20%20powers%5B%22%7B%7D%5E%7B%7D%22.format%28base,%20i%29%5D%20%3D%20base%20**%20i%0A%20%20%20%20print%28powers%29%0A%0A%0Amain%28%29&cumulative=false&curInstr=20&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%223%22%5D&textReferences=false) link to open it on the web.
+This program will ask the user to provide a number as input, and then it will populate a dictionary where the key is a string representing a mathematical expression including that number, and the value will be the result of that expression. Let's trace through this program in Python Tutor. As always, you can copy and paste this code in Python Tutor, or click this [Python Tutor](https://pythontutor.com/visualize.html#code=def%20main%28%29%3A%0A%20%20%20%20base%20%3D%20int%28input%28%22Enter%20a%20whole%20number%3A%20%22%29%29%0A%20%20%20%20powers%20%3D%20%7B%7D%0A%20%20%20%20for%20i%20in%20range%286%29%3A%0A%20%20%20%20%20%20%20%20powers%5Bf%22%7Bbase%7D%5E%7Bi%7D%22%5D%20%3D%20base%20**%20i%0A%20%20%20%20print%28powers%29%0A%0A%0Amain%28%29&cumulative=false&heapPrimitives=nevernest&mode=edit&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%223%22%5D&textReferences=) link to open it on the web.
 
 When we start tracing the program in Python Tutor, we can skip ahead until it reaches the first line of code in the `main()` function, at which point we'll see this state:
 

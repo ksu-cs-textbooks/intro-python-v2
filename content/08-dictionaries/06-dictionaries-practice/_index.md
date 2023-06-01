@@ -132,10 +132,10 @@ One possible solution is given below:
 
 ```python
 def positive_input(n):
-    x = int(input("Enter a positive integer greater than {}: ".format(n)))
+    x = int(input(f"Enter a positive integer greater than {n}: "))
     while x <= n:
         print("Invalid input!")
-        x = int(input("Enter a positive integer greater than {}: ".format(n)))
+        x = int(input(f"Enter a positive integer greater than {n}: "))
     return x
 
 

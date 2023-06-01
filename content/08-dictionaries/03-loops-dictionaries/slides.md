@@ -12,7 +12,7 @@ hidden: true
     "chickadee": "bird"
 }</code></pre>
 	<pre class="fragment"><code style="font-size: 50px; line-height: 60px" class="language-python stretch">for key in dict_3:
-    print("{}: {}".format(key, dict_3[key]))</code></pre>
+    print(f"{key}: {dict_3[key]}")</code></pre>
 </section>
 
 <section>
@@ -28,7 +28,7 @@ hidden: true
     "chickadee": "bird"
 }</code></pre>
 	<pre class="fragment"><code style="font-size: 50px; line-height: 60px" class="language-python stretch">for key, value in dict_3.items():
-    print("{}: {}".format(key, value))</code></pre>
+    print(f"{key}: {value}")</code></pre>
 </section>
 
 <section>

@@ -77,7 +77,7 @@ while(x < 0 or x > 1):
 exam3_weight = x
 
 total = exam1_score * exam1_weight + exam2_score * exam2_weight + exam3_score * exam3_weight
-print("Your total score is {}".format(total))
+print(f"Your total score is {total}")
 ```
 
 A quick execution of this program is shown here:

@@ -47,11 +47,11 @@ dict_3 = {
 
 # keys only
 for key in dict_3:
-    print("{}: {}".format(key, dict_3[key]))
+    print(f"{key}: {dict_3[key]}")
 
 # keys and values
 for key, value in dict_3.items():
-    print("{}: {}".format(key, value))
+    print(f"{key}: {value}")
 ```
 
 ## Functions with Dictionaries

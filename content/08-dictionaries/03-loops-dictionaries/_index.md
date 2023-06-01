@@ -27,7 +27,7 @@ dict_3 = {
 }
 
 for key in dict_3:
-    print("{}: {}".format(key, dict_3[key]))
+    print(f"{key}: {dict_3[key]}")
 ```
 
 In this method, we are iterating through the entire dictionary using a for loop. However, the dictionary will only store the **key** for each key-value pair in the iterator variable. So, to access the value associated with the key, we can simply place it in square brackets after the dictionary's variable name. 
@@ -51,7 +51,7 @@ dict_3 = {
 }
 
 for key, value in dict_3.items():
-    print("{}: {}".format(key, value))
+    print(f"{key}: {value}")
 ```
 
 In this method, instead of iterating through the dictionary itself, we iterate through the `items()` in the dictionary. When we call the `items()` function in a dictionary, we are given a list of the key-value pairs that it contains, and each key-value pair is stored as a **tuple**. From there, we can access each of the elements in the tuple individually using a comma `,` between two variable names. It is a bit complex, and touches on a few concepts in Python that we won't cover in this course, but hopefully it makes sense by looking at the code.

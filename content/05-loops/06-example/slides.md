@@ -20,7 +20,7 @@ hidden: true
 <br>a = int(input("Enter a minimum value: "))
 b = int(input("Enter a maximum value: "))
 x = random.randint(a, b)
-print("A random number between {} and {} is {}".format(a, b, x))
+print(fA random number between {a} and {b} is {x}")
 </code></pre>
 </section>
 
