@@ -4,6 +4,8 @@ pre: "10. "
 weight: 100
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube hTgZVE7kMq4 %}}
 
 #### Resources
@@ -114,7 +116,7 @@ Again, feel free to run this code in either Python Tutor or directly in Python t
 
 In terms of style, both of these options are pretty much equivalent - there's no reason to choose one over the other. However, we'll see later in this lab, there are much better ways we can write this program using chaining and nesting with conditional statements.
 
-{{% notice note "PEP 8 and Pythno Style" %}}
+{{% notice note "PEP 8 and Python Style" %}}
 
 The Python programming language has its own style guide, known as "PEP 8" to most Python programmers. One of the major conventions proposed in that guide is limiting the length of each line of code to just 79 characters, in order to make the code more readable. However, as we've seen above, it is very easy to exceed that length when dealing with complex Boolean expressions, and we'll see this again as we add multiple levels of indentation when we nest conditional statements.
 
