@@ -4,6 +4,8 @@ pre: "10. "
 weight: 100
 ---
 
+<!-- EAV raw complete -->
+
 {{% youtube 1TngxJQL0Ac %}}
 
 #### Resources
@@ -52,7 +54,7 @@ If `y` is {{< math >}}$ 6 ${{< /math >}}, the Boolean expression would be `False
 
 ![Output 3](/images/05/output3.png?classes=border,shadow)
 
-Likewise, if `y` is {{< math >}}$ 4 ${{< /math >}}, we know that it should enter the outermost loop. Inside, we see a for loop that will iterate based on the expression `x - y`. Effectively, it will compute the difference between `x` and `y` and then iterate that many times. So, if `x` is {{< math >}}$ 4 ${{< /math >}} and `y` is {{< math >}}$ 5 ${{< /math >}}, the difference between those values will be {{< math >}}$ 1 ${{< /math >}}. So, we'll enter the innermost for loop at least once. When we run the program with these inputs, we'll see the following output:
+Likewise, if `y` is {{< math >}}$ 4 ${{< /math >}}, we know that it should enter the outermost loop. Inside, we see a for loop that will iterate based on the expression `x - y`. Effectively, it will compute the difference between `x` and `y` and then iterate that many times. So, if `x` is {{< math >}}$ 5 ${{< /math >}} and `y` is {{< math >}}$ 4 ${{< /math >}}, the difference between those values will be {{< math >}}$ 1 ${{< /math >}}. So, we'll enter the innermost for loop at least once. When we run the program with these inputs, we'll see the following output:
 
 ![Output 4](/images/05/output4.png?classes=border,shadow)
 
