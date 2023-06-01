@@ -23,13 +23,27 @@ if <boolean expression>:
     <block of statements>
 ```
 
-In this structure, we have a `<boolean expression>` that is evaluated. After the Boolean expression is a colon `:`, just like at the end of a function definition. 
+In this structure, we have a `<boolean expression>` that is evaluated. After the Boolean expression is a colon `:`. 
 
-Then, the `<block of statements>` is included below the if statement's first line, and it must be indented one level. Again, this is very similar to the structure of a function definition in Python. In Python, the `<block of statements>` must include at least one line of code, otherwise Python won't be able to understand it. 
+Then, the `<block of statements>` is included below the if statement's first line, and it must be indented one level. In Python, the `<block of statements>` must include at least one line of code, otherwise Python won't be able to understand it. 
 
-Let's go through a couple of code tracing examples in Python Tutor to see how an if statement works in code.
+## Indentation in Python
+
+Let's briefly discuss **indentation** in Python, since it is very important and is usually something that trips up new Python developers. Most programming languages use symbols such as curly braces `{}` to surround blocks of statements in code, making it easy to tell where one block ends and another begins. Similarly, those languages also use symbols such as semicolons `;` at the end of each line of code, indicating the end of a particular statement.
+
+These programming languages use those symbols to make it clear to both the developer and the computer where a particular line or block of code begins and ends, and it makes it very easy for tools to understand and run the code. As an interesting side effect, it also means that the code doesn't need to follow any particular structure beyond the use of those symbols - many of the languages allow developers to place multiple statements, or even entire programs, on a single line of code. Likewise, indentation is completely optional, and only done to help make the code more readable. 
+
+Python takes a different approach. Instead of using symbols like semicolons `;` and curly braces `{}` to show the structure of the code, Python uses newlines and indentation for this purpose. By doing so, Python is simultaneously simpler (since it has fewer symbols to learn) and more complex (the indentation has meaning) than other languages. It's really a tradeoff, though most Python programmers will admit that not having to deal with special symbols in Python is well worth the effort of making sure that the indentation is correct, especially since most other languages follow the same conventions anyway, even if it isn't strictly required.
+
+So, how can we **indent** code in Python? Typically, we use four consecutive spaces for each level of indentation. So, below the conditional statement `if <boolean expression>::` shown above, we would place four spaces before the first line of the `<block of statements>`, and then continue to do so for each line below that should be included in the block of code. 
+
+Thankfully, most text editors used for programming, such as Codio, Atom, Visual Studio Code, and more, are all configured to convert tabs to spaces. So, we can simply press the **Tab** key on the keyboard to insert the correct amount of spaces for one level of indentation. Likewise, we can usually use **Shift+Tab** to remove four spaces. 
+
+Finally, it is worth noting that there is a special symbol that actually is a **tab** in text, which is represented as `\t` in a string. Like the newline symbol, we can't see it in our UI in most cases, but it is there. Some non-programming text editors, such as Notepad in Windows, will insert that symbol instead of four spaces when we press the **Tab** key. If we try to run a program that contains those symbols, the Python interpreter may not be able to read our program and will give us an error about inconsistent use of tabs and spaces. If that happens, we'll need to make sure our program is consistently using only tabs or spaces for indentation. Most editors used for programming have a special function for converting tabs to spaces, and there are lots of online tools available for this as well. 
 
 ## Code Tracing Example - False
+
+Let's go through a couple of code tracing examples in Python Tutor to see how an if statement works in code.
 
 Consider this program in Python:
 
