@@ -3,10 +3,10 @@ title: "For Loops"
 pre: "3. "
 weight: 30
 ---
-<!-- EAV raw complete -->
 
+{{% youtube MkwFVwOoFCY %}}
 
-{{% youtube _XArnG4R6r4 %}}
+<!-- Old: _XArnG4R6r4 -->
 
 #### Resources
 

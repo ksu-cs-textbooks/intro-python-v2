@@ -27,7 +27,7 @@ Notice that the equal comparator in Python now uses two equals signs `==` instea
 
 ## Comparing values
 
-Just like in pseudocode, we usually only want to compare values of the same data type using comparators. It really only makes sense to compare strings to strings, and Booleans to Booleans. However, for the numeric data types `int` and `float`, we can easily compare values of either data type together in Python.
+We usually only want to compare values of the same data type using comparators. It really only makes sense to compare strings to strings, and Booleans to Booleans. However, for the numeric data types `int` and `float`, we can easily compare values of either data type together in Python.
 
 Consider the following example:
 
