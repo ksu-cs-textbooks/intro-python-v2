@@ -7,7 +7,7 @@ weight: 60
 {{% youtube VU6UMrfhkUE %}}
 
 <!-- Old: VU6UMrfhkUE -->
-<!-- EAV: rerecord this one -->
+<!-- EAV: raw complete -->
 
 #### Resources
 
