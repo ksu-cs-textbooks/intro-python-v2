@@ -4,8 +4,6 @@ pre: "13. "
 weight: 130
 ---
 
-<!-- EAV raw complete -->
-
 {{% youtube OLXvXmq2B1s %}}
 
 <!-- Old: 83OmxV6GxYk-->
