@@ -16,7 +16,7 @@ One of the coolest features in Python is the ability to easily create **slices**
 
 There are two basic ways to create a list slice in Python.
 
-1. `nums[start:end]` - this will create a slice of the list stored in `nums` that begins as the index `start` and ends before the index `end`. For example, if `nums` is storing the list `[2, 4, 6, 8, 10]`, then `nums[1:3]` would create the list slice `[4, 6]`. 
+1. `nums[start:end]` - this will create a slice of the list stored in `nums` that begins at the index `start` and ends before the index `end`. For example, if `nums` is storing the list `[2, 4, 6, 8, 10]`, then `nums[1:3]` would create the list slice `[4, 6]`. 
 1. `nums[start:end:step]` - this will create a slice of the list stored in `nums` that begins as the index `start`, moves `step` indexes between each successive items, and ends before the index `end`. For example, if `nums` is storing the list `[2, 4, 6, 8, 10]`, then `nums[0:5:2]` would create the list slice `[2, 6, 10]`. 
 
 The method for creating list slices is very similar to how the `range()` function is used in Python. In effect, if the same values are provided as arguments to the `range()` function, then it will produce the list of indexes that will be used to generate the list slice.
