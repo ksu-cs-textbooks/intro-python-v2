@@ -3,5 +3,6 @@ archetype = "chapter"
 chapter = true
 title = "Classes"
 pre = "<b>9. </b>"
-weight = 9
+weight = 90
+hidden = true
 +++
