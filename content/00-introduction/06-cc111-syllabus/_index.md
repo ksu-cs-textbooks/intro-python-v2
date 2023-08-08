@@ -4,14 +4,6 @@ weight: 62
 pre: "6.2 "
 ---
 
-{{% notice info %}}
-
-This is the official syllabus for the concurrent enrollment version of this course. It is subject to change as we work on building our overall concurrent enrollment program. Any changes will be clearly communicated to all teachers and students.
-
-Your teachers may give you a syllabus that includes additional information that is specific to your class.  
-
-{{% /notice %}}
-
 ## CC 111 - Elements of Computer Programming HS (2023-2024)
 
 [Previous Versions]({{<relref "./old">}})
