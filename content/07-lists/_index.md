@@ -4,4 +4,5 @@ chapter = true
 title = "Lists"
 pre = "<b>7. </b>"
 weight = 70
+ordinal = "7"
 +++
