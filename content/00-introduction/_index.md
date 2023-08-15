@@ -3,6 +3,7 @@ title = "Introduction"
 weight = 5
 archetype = "chapter"
 ordinal = "0"
+hidden = true
 pre = "<b>0. </b>"
 +++
 
