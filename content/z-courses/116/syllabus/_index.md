@@ -1,5 +1,5 @@
 ---
-title: "CIS 115 Syllabus - Fall 2024"
+title: "CIS 116 Syllabus - Fall 2024"
 weight: 62
 pre: ""
 ---
