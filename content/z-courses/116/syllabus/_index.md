@@ -84,7 +84,7 @@ By the end of this course, each student will be able to:
 
 ## Course Structure
 
-This course is structured as a lab/studio.  Lectures will vary in length depending on the topic but will typically be short in order to focus on in-class labs. As such, there will be an expectation that students come to labs prepared, having watched and read all required material ahead of time. In addition to labs, there will be about projects throughout the semester to help practice and go deeper into the Python language. There will be a few quizzes/exams to verify comprehension of material learned in lab. In place of a final exam, we will have a final project.
+This course is structured as a lab/studio.  Lectures will vary in length depending on the topic but will typically be short in order to focus on in-class labs. As such, there will be an expectation that students come to labs prepared, having watched and read all required material ahead of time. In addition to labs, there will be projects throughout the semester to help practice and go deeper into the Python language. There will be a few quizzes/exams to verify comprehension of material learned in lab.
 
 **CIS 116 is a studio-type course**, meaning that much of the course is done online. <u>It is expected that you complete the online material/readings **before** you come to class</u> so we can have discussions on that week's material. Class time will be dedicated to programming work. While most work for the course is available online, there will be some content that will be available **only** in class, such as labs.
 
@@ -149,8 +149,10 @@ There will be some programming that must be completed outside of class. It is ac
 #### Grading
 - 25% - Programming Labs (*Lowest lab is dropped*)
 - 20% - Programming Homework 
-- 15% - Final Python Project
-- 40% - Exams/Quizzes (*Lowest two Quiz scores are dropped*)
+- 65% - Exams/Quizzes (*Lowest two Quiz scores are dropped*)
+  - 15% quizzes
+  - 25% midterm
+  - 25% final
 
 Letter grades will be assigned following the standard scale: 
 
