@@ -90,7 +90,7 @@ This course is structured as a lab/studio.  Lectures will vary in length dependi
 
 <hr/>
 
-### How to Get Help in this  Course
+### How to Get Help in this Course
 CIS 116 might be your first programming course, so most of the material will be brand new. Therefore, you are encouraged to seek help whenever you feel you are being overwhelmed or don’t understand a topic. **You are not alone!** Most students in CIS 116 have never studied anything relating to computer programming before, so it is new to everyone. The professors and TAs are ***always*** willing to help students with ***any*** questions you may have about the class or other issues related to Computing Science. So please, don’t be afraid to ask questions. Get help early and often!     
 
 Here are the 5 **recommended ways to get help** on CIS 116:  
