@@ -128,7 +128,7 @@ One possible solution is given below:
 x = int(input("Enter an integer: "))
 y = int(input("Enter an integer: "))
 z = int(input("Enter an integer: "))
-a = y & x == 0 and z % y == 0
+a = y % x == 0 and z % y == 0
 print(a)
 ```
 
