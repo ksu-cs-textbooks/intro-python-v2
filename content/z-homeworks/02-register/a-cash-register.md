@@ -296,7 +296,7 @@ Your project will be graded according to the following rubric:
 
 * Getting Totals & Computing Subtotal: 40%
 * Not Enough Paid & Exact Amount Paid: 10%
-* Making CHange & Printing Outputs: 40%
+* Making Change & Printing Outputs: 40%
 * Documentation Comments: 10%
 
 ## Submitting
