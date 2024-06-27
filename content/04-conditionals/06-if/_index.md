@@ -4,13 +4,13 @@ pre: "6. "
 weight: 60
 ---
 
-{{% youtube SfaAhCS6vAY %}}
+{{< youtube SfaAhCS6vAY  >}}
 
 <!-- Old: J0Zv4807Quw -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we understand how to use Boolean values in our programs, it's time to put those values to use. One way to think of the result of a Boolean expression is that it helps us make a **decision** in our programs. For example, if we want to do something special in our program when the user inputs the value {{< math >}}$ 42 ${{< /math >}} into the variable `x`, then we can write the Boolean expression `x == 42` to help us decide if the user input the correct value.
 

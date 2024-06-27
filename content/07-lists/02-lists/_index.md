@@ -4,13 +4,13 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube AcHH6j4l55I %}}
+{{< youtube AcHH6j4l55I  >}}
 
 <!-- Old: vIy6U49j928 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 The first collection we'll review in Python is the **list**. A **list** in Python allows us to store many individual values, or **elements**, in a single variable. To keep track of the elements, each one is assigned an **index**, which is an integer that uniquely identifies the element's position in the list. In Python, just like in many other programming languages, the indexes begin at {{< math >}}$ 0 ${{< /math >}} and count up from there.
 

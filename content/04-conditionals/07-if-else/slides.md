@@ -20,39 +20,39 @@ print("Thanks for playing!")
 </code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7_1.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7_1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7_2.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7_2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7_3.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7_4.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7_6.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor7.gif">
+	<img class="stretch plain" src="/intro-python/images/04/tutor7.gif">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor8_3.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor8_3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor8_4.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor8_4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor8_6.png">
+	<img class="stretch plain" src="/intro-python/images/04/tutor8_6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/04/tutor8.gif">
+	<img class="stretch plain" src="/intro-python/images/04/tutor8.gif">
 </section>
 <section>
     <h3>Flowchart</h3>
     <div style="float: right; width: 50%">
-        <img class="stretch plain" src="/images/04/ifthenelse.png">
+        <img class="stretch plain" src="/intro-python/images/04/ifthenelse.png">
     </div>
     <div style="float: left; width: 50%">
                 <pre class="language-python stretch" style="font-size: 43px; line-height: 50px"><code>x = int(input("Input: " ))

@@ -330,5 +330,5 @@ print("?")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/04/scope.png">
+	<img class="stretch plain" src="/intro-python/images/04/scope.png">
 </section>

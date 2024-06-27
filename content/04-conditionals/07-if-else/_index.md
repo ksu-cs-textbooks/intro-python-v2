@@ -4,13 +4,13 @@ pre: "7. "
 weight: 70
 ---
 
-{{% youtube Gs0THQo15Gk %}}
+{{< youtube Gs0THQo15Gk  >}}
 
 <!-- Old: eX2PD1z3au8 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python also supports another kind of conditional statement, the **if-else statement**. An if-else statement contains a single Boolean expression, but two blocks of code. If the Boolean expression evaluates to `True`, then one block of statements is executed. If it is `False`, then the other block will be executed. 
 

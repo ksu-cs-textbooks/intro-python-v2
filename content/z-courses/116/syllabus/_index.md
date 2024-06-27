@@ -4,14 +4,14 @@ weight: 62
 pre: ""
 ---
 
-- [Link to this Syllabus]({{<ref "./">}})
-- [Previous Versions]({{<relref "./old-syllabi">}})
+- [Link to this Syllabus]({{% ref "./" %}})
+- [Previous Versions]({{% relref "./old-syllabi" %}})
 
 ### Contact
 
 {{% notice info %}}
 
-Our **preferred method of contact** will be through the [Edstem Discussion board](google.com). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
+Our **preferred method of contact** will be through the [Edstem Discussion board](https://google.com). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
 
 **All emails** for the course should be sent to [cis116-help@KSUemailProd.onmicrosoft.com](mailto:cis116-help@KSUemailProd.onmicrosoft.com?subject=CIS%20116%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email. You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
@@ -96,13 +96,13 @@ CIS 116 might be your first programming course, so most of the material will be 
 Here are the 5 **recommended ways to get help** on CIS 116:  
 
 - Review the course materials posted on K-State Canvas and the course website 
-- Check the [Edstem Discussion board](google.com) to see if a similar question has been asked, otherwise, post a new question.
+- Check the [Edstem Discussion board](https://google.com) to see if a similar question has been asked, otherwise, post a new question.
 - Visit your professor's office hours, or the office hours for your TA if available  
 - Send a message to the CIS 116 Help email ([cis116-help@KSUemailProd.onmicrosoft.com](mailto:cis116-help@KSUemailProd.onmicrosoft.com?subject=CIS%20116%20Help)).
 - Ask your teammates for help or advice on assignments or projects (be mindful of the honor code!)
 - Schedule a one-on-one meeting with your professor/TA  
 
-#### More on the [Edstem Discussion board](google.com)
+#### More on the [Edstem Discussion board](https://google.com)
 
 This semester, we will be using edstem.org, specifically, there Ed Discussion platform. Ed Discussion is a reddit/forum style web app that allows students to post and ask questions. This will be our preferred way of communication when it comes to questions/etc. in the course. Please adhere to the following guidelines:
 - Before creating a new thread, please make sure there isn't a similar one already made.

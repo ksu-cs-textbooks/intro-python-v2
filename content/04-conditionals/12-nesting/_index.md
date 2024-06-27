@@ -4,13 +4,13 @@ pre: "12. "
 weight: 120
 ---
 
-{{% youtube McEzRwTsyfo %}}
+{{< youtube McEzRwTsyfo  >}}
 
 <!-- Old: TpYqzdioI7w -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 We've already seen how we can chain conditional statements by placing a new conditional statement inside of the `False` branch of another conditional statement. If we think about that, however, that implies that we probably should be able to place conditional statements inside of the `True` branch as well, or really anywhere. As it turns out, that's exactly correct. We call this **nesting**, and it is really quite similar to what we've already seen in this lab. 
 

@@ -4,11 +4,11 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube u7UKG-BAbGI %}}
+{{< youtube u7UKG-BAbGI  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 So far, we've only worked with **string** values in Python. Strings are a very useful **data type** in programming languages such as Python, but they are very limited in their use. Recall that a **data type** simply defines how a particular value is stored in a computer. The **`str`** data type is used to store string values in Python. 
 

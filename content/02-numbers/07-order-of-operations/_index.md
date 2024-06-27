@@ -4,11 +4,11 @@ pre: "7. "
 weight: 70
 ---
 
-{{% youtube wjEIbu3HV7s %}}
+{{< youtube wjEIbu3HV7s  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Finally, just like in mathematics, we must also be aware of the order that these operators are applied, especially if they are combined into a single expression. Thankfully, the same rules we learned in mathematics apply in programming as well. Specifically, operators in Python are applied in this order:
 

@@ -4,13 +4,13 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube nhJUBRRZrV4 %}}
+{{< youtube nhJUBRRZrV4  >}}
 
 <!-- Old: UmbhQzGhYso -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Over the last few labs, we've explored how we can change the **control flow** of our programs using conditional statements. A program that doesn't contain any conditional statements will have a linear control flow. Each time we run the program, it will execute the same steps in the same order, but it may use different data based on input from the user.
 

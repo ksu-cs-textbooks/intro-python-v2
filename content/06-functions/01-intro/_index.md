@@ -4,11 +4,11 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube 2xU3oUU7D0s %}}
+{{< youtube 2xU3oUU7D0s  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 As our Python programs continue to get larger and more complex, we may notice that we are reusing certain pieces of code over and over again. A great example is the loop structure to repeatedly get input from the user until a valid input is received. 
 

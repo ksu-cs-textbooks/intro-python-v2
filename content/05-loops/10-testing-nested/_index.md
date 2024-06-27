@@ -4,13 +4,13 @@ pre: "10. "
 weight: 100
 ---
 
-{{% youtube nDJQVPUwnb4 %}}
+{{< youtube nDJQVPUwnb4  >}}
 
 <!-- Old: 1TngxJQL0Ac -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Testing nested loops can also be very tricky, especially because they can make our program's control flow even more complex. So, let's briefly go through an example to see how to determine what inputs we can use to test nested loops.
 

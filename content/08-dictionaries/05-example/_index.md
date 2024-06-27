@@ -4,13 +4,13 @@ pre: "5. "
 weight: 50
 ---
 
-{{% youtube 8jDsVcyPq1M %}}
+{{< youtube 8jDsVcyPq1M  >}}
 
 <!-- Old: tKJjpEvZidc -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Finally, let's go through a complete worked example program that uses dictionaries in Python. Consider the following problem statement:
 

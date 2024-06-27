@@ -4,11 +4,11 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube RvqF1s_tEzo %}}
+{{< youtube RvqF1s_tEzo >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Learning to program involves learning not only the syntax and rules of a new language, but also a new way of thinking. Not only do we want to write code that is understandable by the computer, we must also understand what the computer will do when it tries to run that code. 
 

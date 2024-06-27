@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube FD0HPWaxfNA %}}
+{{< youtube FD0HPWaxfNA  >}}
 
 <!-- Old: SgqDwc--C-Q -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Another useful way we can work with dictionaries in Python is by iterating through them. In Python 3.6 and beyond, the items in a dictionary will be presented in the same order that they were added to the dictionary. This isn't always the case in other languages or older versions of Python
 

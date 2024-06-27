@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube JIlwB8COas8 %}}
+{{< youtube JIlwB8COas8  >}}
 
 <!-- Old: G5bIf_cLoFA -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Earlier in this lab, we saw Python Tutor create a list variable within the frame of a function, but that variable actually pointed to a list object that was stored in the global objects list. As it turns out, this seemingly minor distinction is a very important concept to understand how lists and functions interact with each other.
 

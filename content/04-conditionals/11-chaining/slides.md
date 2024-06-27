@@ -4,7 +4,7 @@ hidden: true
 ---
 
 <section>
-	<img class="stretch plain" src="/images/04/chain.svg">
+	<img class="stretch plain" src="/intro-python/images/04/chain.svg">
 </section>
 
 <section>

@@ -4,11 +4,11 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube 7r5cfboiJio %}}
+{{< youtube 7r5cfboiJio  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 In this lab, we're going to introduce another data type in Python, the **Boolean** data type. Working with Boolean values in programming is a very important skill to learn.
 

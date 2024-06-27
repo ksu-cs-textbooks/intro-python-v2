@@ -98,5 +98,5 @@ print(f"The sum of the first {n} prime numbers is {total}")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/output6.png">
+	<img class="stretch plain" src="/intro-python/images/05/output6.png">
 </section>

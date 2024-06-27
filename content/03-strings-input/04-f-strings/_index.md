@@ -4,11 +4,11 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube xrClRO_OQg8 %}}
+{{< youtube xrClRO_OQg8  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python also includes another method of building strings, which are known as "F-strings". F-strings allow us to put placeholders in strings that are later replaced with values from variables, effectively creating a way to build "templates" that can be used throughout our program.
 

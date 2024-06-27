@@ -4,13 +4,13 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube AAZzgEzxG4w %}}
+{{< youtube AAZzgEzxG4w  >}}
 
 <!-- Old: GNV4bRAAQlk -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 In Python, Boolean values are stored in the `bool` data type. Variables of the `bool` data type can only store one of two values, `True` or `False`. So, a Boolean value is really the simplest data value we can imagine - it is a single binary bit representing a value of `True` or `False`.
 

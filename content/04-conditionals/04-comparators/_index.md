@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube D1VUCLcm26o %}}
+{{< youtube D1VUCLcm26o  >}}
 
 <!-- Old: QE5Lb58y1wI -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python also uses various **comparators** to allow us to compare values of many different data types to produce a Boolean value. We can compare numbers, strings, and many other data types in Python using these comparators.
 

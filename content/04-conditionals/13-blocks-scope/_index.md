@@ -4,13 +4,13 @@ pre: "13. "
 weight: 130
 ---
 
-{{% youtube OLXvXmq2B1s %}}
+{{< youtube OLXvXmq2B1s  >}}
 
 <!-- Old: 83OmxV6GxYk-->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we've seen how we can chain and nest multiple conditional statements in our code, we need to address a very important concept: variable scope.
 

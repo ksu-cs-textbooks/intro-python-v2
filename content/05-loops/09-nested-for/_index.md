@@ -4,13 +4,13 @@ pre: "9. "
 weight: 90
 ---
 
-{{% youtube bpwdLSuM8fo %}}
+{{< youtube bpwdLSuM8fo  >}}
 
 <!-- Old: g7quQJVplPs -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 For loops can also be nested, just like while loops. In fact, nesting for loops is often much simpler than nesting while loops, since it is very easy to predict exactly how many times a for loop will iterate, and also because it is generally easier to determine if a for loop will properly terminate instead of a while loop.
 

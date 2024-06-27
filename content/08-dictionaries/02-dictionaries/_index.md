@@ -4,13 +4,13 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube yc-sr-RL-gM %}}
+{{< youtube yc-sr-RL-gM  >}}
 
 <!-- Old: OCFZhReWBIw -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 In theory, a **dictionary** is very similar to a list in Python - it is a data structure that can store many different items within a single variable. However, instead of just storing single values as elements and assigning them sequential indexes, dictionaries store a number of **key-value pairs**. A **key** is any value that can be used as a unique identifier for the associated **value** to be stored in the dictionary.
 

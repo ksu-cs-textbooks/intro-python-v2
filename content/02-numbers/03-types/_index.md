@@ -4,11 +4,11 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube sYEgJljj2K0 %}}
+{{< youtube sYEgJljj2K0  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 ## Determining Variable Type
 

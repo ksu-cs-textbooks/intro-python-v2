@@ -4,11 +4,11 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube P4IJU6AQwPE %}}
+{{< youtube P4IJU6AQwPE  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we have the ability to store numerical data in variables in Python, we should also learn how to manipulate that data into something new. To do that, let's learn about **operators**. An **operator** in programming is a special symbol that can be used in an expression to manipulate the data in some way. 
 

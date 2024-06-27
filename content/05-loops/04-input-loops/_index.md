@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube ouUJglULdW8 %}}
+{{< youtube ouUJglULdW8  >}}
 
 <!-- Old: P71riBkGxKw -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Loops in Python are also a great way to handle situations where a user must input a value that meets certain criteria. Previously, we used an if statement to determine if the input was valid, but if it wasn't valid all we could do was print an error and end the program. If we use a loop instead, we can prompt the user to provide additional input until we receive a valid value.
 

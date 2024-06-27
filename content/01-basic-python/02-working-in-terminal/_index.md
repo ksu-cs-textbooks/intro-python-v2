@@ -4,13 +4,13 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube LHdtKvVlVEk %}}
+{{< youtube LHdtKvVlVEk  >}}
 
 <!-- Old: H0ZDBdT1Opw -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 First, let's start with the basics of writing Python code in a file and running those files. This is the first major step toward actually writing a real program, but it can definitely be difficult the first time without prior experience to rely on. So, let's go through it step by step and make sure we know how to run our programs in Python.
 

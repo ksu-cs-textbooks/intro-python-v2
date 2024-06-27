@@ -6,11 +6,11 @@ weight: 110
 
 <!-- EAV raw complete -->
 
-{{% youtube VU6UMrfhkUE %}}
+{{< youtube VU6UMrfhkUE  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we've explored how to create programs that contain nested loops, let's work through a complete example problem to see how we can convert a problem statement into working code.
 

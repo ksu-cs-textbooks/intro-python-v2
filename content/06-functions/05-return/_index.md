@@ -4,13 +4,13 @@ pre: "5. "
 weight: 50
 ---
 
-{{% youtube kmgmVP0alNU %}}
+{{< youtube kmgmVP0alNU  >}}
 
 <!-- Old: ufqVy7lX7Do -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python functions are also capable of returning a value, In Python, we use the `return` keyword.
 

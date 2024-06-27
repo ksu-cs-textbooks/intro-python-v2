@@ -4,13 +4,13 @@ pre: "14. "
 weight: 140
 ---
 
-{{% youtube rKGtNq5-628 %}}
+{{< youtube rKGtNq5-628  >}}
 
 <!-- Old: YCqzBO6W3XU -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Let's go through another worked example to see how we can translate a problem statement into a working program. We'll also take a look at how we can test the program to verify that it is working as intended.
 

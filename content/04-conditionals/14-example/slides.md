@@ -25,7 +25,7 @@ print(f"player 3 chose {p3}")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/04/output1.png">
+	<img class="stretch plain" src="/intro-python/images/04/output1.png">
 </section>
 
 <section>
@@ -135,7 +135,7 @@ else:
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/04/output2.png">
+	<img class="stretch plain" src="/intro-python/images/04/output2.png">
 </section>
 
 <section>

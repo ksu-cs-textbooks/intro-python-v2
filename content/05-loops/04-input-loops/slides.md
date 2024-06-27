@@ -55,5 +55,5 @@ print(f"Your total score is {total}")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/input.png">
+	<img class="stretch plain" src="/intro-python/images/05/input.png">
 </section>

@@ -4,11 +4,11 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube D6HF7S_J_i8 %}}
+{{< youtube D6HF7S_J_i8  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Of course, we can also read numerical input in Python using the `input()` function. To do this, we must simply use either the `int()` or `float()` function to convert the input received as a string to the correct data type.
 

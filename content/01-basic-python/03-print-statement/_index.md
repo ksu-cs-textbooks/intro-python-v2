@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube B7W1w4H610k %}}
+{{< youtube B7W1w4H610k  >}}
 
 <!-- Old: yveXTTVXzZ0 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Before we learn to write our first program, let's start by introducing some important vocabulary terms:
 

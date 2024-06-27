@@ -4,13 +4,13 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube thv1c8bwzpc %}}
+{{< youtube thv1c8bwzpc  >}}
 
 <!-- Old: UObqXaT2hXg -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 The first type of loop to explore in Python is the **while loop**. A while loop uses a Boolean expression, and will repeat the code inside of the loop as long as the Boolean expression evaluates to `True`. These loops are typically used when we want to repeat some steps, but we aren't sure exactly how many times it must be done. Instead, we typically know that there is some condition that must be `True` while we repeat the code, and once it turns `False` we can stop looping and continue with the program.
 

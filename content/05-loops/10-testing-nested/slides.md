@@ -22,19 +22,19 @@ print("Complete!")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/output2.png">
+	<img class="stretch plain" src="/intro-python/images/05/output2.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/output3.png">
+	<img class="stretch plain" src="/intro-python/images/05/output3.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/output4.png">
+	<img class="stretch plain" src="/intro-python/images/05/output4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/output5.png">
+	<img class="stretch plain" src="/intro-python/images/05/output5.png">
 </section>
 
 <section>

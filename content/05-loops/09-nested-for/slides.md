@@ -61,7 +61,7 @@ print(f"sum: {total}, count: {count}")
     print("")
 </code></pre>
 
-<img class="fragment plain" src="/images/05/output.png">
+<img class="fragment plain" src="/intro-python/images/05/output.png">
 
 </section>
 

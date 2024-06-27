@@ -4,13 +4,13 @@ pre: "8. "
 weight: 80
 ---
 
-{{% youtube AmWORNHTFMM %}}
+{{< youtube AmWORNHTFMM  >}}
 
 <!-- Old: jv4zWOMdLVA -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Up to this point, we explored how we can use iterative structures in our code, such as while loops and for loops, to repeat steps a certain number of times or while a Boolean condition is true. This is a very powerful tool, since it allows us to build programs that can repeatedly ask the user to provide input until a valid value is received, or even perform a repeated calculation until it reaches a desired result.
 

@@ -161,7 +161,7 @@ main()
 
 <section>
 	<h3>Logic Error</h3>
-	<img class="stretch plain" src="/images/07/error1.png">
+	<img class="stretch plain" src="/intro-python/images/07/error1.png">
 </section>
 
 <section>
@@ -192,7 +192,7 @@ main()
 
 <section>
 	<h3>Logic Error Fixed!</h3>
-	<img class="stretch plain" src="/images/07/output3.png">
+	<img class="stretch plain" src="/intro-python/images/07/output3.png">
 </section>
 
 <section>

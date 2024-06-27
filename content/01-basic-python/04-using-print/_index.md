@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube HLkbubuv4sE %}}
+{{< youtube HLkbubuv4sE  >}}
 
 <!-- Old: BhpTb-i4ELg -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 One important key to remember: by default, the `print(expression)` statement in Python will add a newline to the end of the output by default. This means that multiple `print(expression)` statements will print on multiple lines. Let's look at some examples!
 

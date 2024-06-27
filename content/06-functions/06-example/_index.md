@@ -4,14 +4,14 @@ pre: "6. "
 weight: 60
 ---
 
-{{% youtube VU6UMrfhkUE %}}
+{{< youtube VU6UMrfhkUE  >}}
 
 <!-- Old: VU6UMrfhkUE -->
 <!-- EAV: raw complete -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we've explored how to create functions, let's work through a one of our previous worked examples to see how we could approach building that same program, but this time using some functions to simplify our code a bit.
 

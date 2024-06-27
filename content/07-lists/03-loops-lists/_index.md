@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube ZpywUWkfRv8 %}}
+{{< youtube ZpywUWkfRv8  >}}
 
 <!-- Old: SOz8zKt2jnU -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 One great way to work with lists in Python is using a loop. Recall from an earlier lab that a for loop actually iterates over a list itself, and that the `range()` function is simply used to generate a list that the for loop can use. Likewise, while loops can also be used in a similar way. 
 

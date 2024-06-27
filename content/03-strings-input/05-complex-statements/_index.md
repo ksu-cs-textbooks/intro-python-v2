@@ -4,11 +4,11 @@ pre: "5. "
 weight: 50
 ---
 
-{{% youtube GIscaODlV8E %}}
+{{< youtube GIscaODlV8E  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Finally, let's look at how we can rewrite some of our previous Python programs by combining expressions into more complex statements. Python allows us to perform multiple actions on a single line of code, provided they can all be combined in some way to create a single statement.
 

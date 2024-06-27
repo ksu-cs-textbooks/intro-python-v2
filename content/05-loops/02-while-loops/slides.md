@@ -20,49 +20,49 @@ print(f"The smallest multiple of 9 that ends in {x} is {total}")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_1.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_1.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_2.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_2.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_3.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_3.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_4.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_5.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_5.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_6.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_6.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_7.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_7.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_8.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_8.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_10.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_10.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_11.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_11.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9_12.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9_12.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor9.gif">
+	<img class="stretch plain" src="/intro-python/images/05/tutor9.gif">
 </section>

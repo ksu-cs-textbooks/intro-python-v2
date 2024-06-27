@@ -4,13 +4,13 @@ pre: "5. "
 weight: 50
 ---
 
-{{% youtube 0BDhm8cV-6s %}}
+{{< youtube 0BDhm8cV-6s  >}}
 
 <!-- Old: 0uxBubdtwJY -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Another important aspect of working with loops in code is learning how to properly test programs that contain loops. So, let's look at some of the methods we can use when testing our programs containing loops to make sure they work correctly and won't run into any problems. 
 

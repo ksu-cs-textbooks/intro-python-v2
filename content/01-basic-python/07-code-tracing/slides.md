@@ -12,26 +12,26 @@ print(x, end=", ")
 print(y)</code></pre>
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor1.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor1.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor2.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor2.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor3.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor3.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor4.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor4.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor5.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor5.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor6.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor6.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor7.png">
+	<img class="stretch plain" src="/intro-python/images/01/tutor7.png">
 </section>
 <section>
-	<img class="stretch plain" src="/images/01/tutor.gif">
+	<img class="stretch plain" src="/intro-python/images/01/tutor.gif">
 </section>

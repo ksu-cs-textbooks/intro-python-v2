@@ -4,13 +4,13 @@ pre: "6. "
 weight: 60
 ---
 
-{{% youtube wJVOMuAtyjM %}}
+{{< youtube wJVOMuAtyjM  >}}
 
 <!-- Old: KzAfiKbWBTs -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Throughout this course, we've seen several different ways to work with strings. In Python, just like in many other programming languages, it is possible to treat strings as a list of individual characters. Because of this, we can write many useful programs that use and manipulate strings in a variety of ways. 
 

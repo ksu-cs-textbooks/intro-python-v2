@@ -17,83 +17,83 @@ print("Complete!")
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_1.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_1.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_2.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_2.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_3.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_3.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_4.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_5.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_5.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_6.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_6.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_7.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_7.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_8.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_8.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_9.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_9.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_10.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_10.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_32.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_32.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_34.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_34.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_35.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_35.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_36.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_36.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_37.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_37.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_39.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_39.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_61.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_61.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_63.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_63.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_183.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_183.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/tutor11_184.png">
+	<img class="stretch plain" src="/intro-python/images/05/tutor11_184.png">
 </section>
 
 <section>

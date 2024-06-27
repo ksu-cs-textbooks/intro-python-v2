@@ -4,13 +4,13 @@ pre: "5. "
 weight: 50
 ---
 
-{{% youtube JkimMZuCB64 %}}
+{{< youtube JkimMZuCB64  >}}
 
 <!-- Old: uDBm9JVNyBs -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 One of the coolest features in Python is the ability to easily create **slices** of lists. A **slice** is simply a portion of a list that can be stored and used as a separate list, allowing us as programmers to quickly create and manipulate new lists based on existing lists.
 

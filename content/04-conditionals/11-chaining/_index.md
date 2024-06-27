@@ -4,13 +4,13 @@ pre: "11. "
 weight: 110
 ---
 
-{{% youtube 7bC77_B0cCM %}}
+{{< youtube 7bC77_B0cCM  >}}
 
 <!-- Old: _gpasgFxlIw -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 In the previous example, we saw a set of linear if statements to represent a Rock Paper Scissors game. As we discussed on that page, the Boolean expressions are meant to be **mutually exclusive**, meaning that only one of the Boolean expressions will be true no matter what input the user provides. 
 

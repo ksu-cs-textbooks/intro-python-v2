@@ -49,53 +49,53 @@ main()</code></pre>
 
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_4.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_4.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_5.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_5.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_6.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_6.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_7.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_7.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_8.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_8.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_9.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_9.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_10.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_10.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_12.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_12.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_15.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_15.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_18.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_18.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_19.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_19.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10_20.png">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10_20.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/tutor10.gif">
+	<img class="stretch plain" src="/intro-python/images/07/tutor10.gif">
 </section>

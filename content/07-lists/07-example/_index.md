@@ -4,13 +4,13 @@ pre: "7. "
 weight: 70
 ---
 
-{{% youtube rx-s6LDNawI %}}
+{{< youtube rx-s6LDNawI  >}}
 
 <!-- Old: k-pL--zTYlM -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Finally, let's work through another full example program in Python that uses lists and strings, just to gain some more experience with the various ways we can use the techniques we've learned in this lab.
 

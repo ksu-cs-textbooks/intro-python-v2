@@ -152,11 +152,11 @@ while(not ((player == 1 and guess == p1_secret) or
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/error1.png">
+	<img class="stretch plain" src="/intro-python/images/05/error1.png">
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/error2.png">
+	<img class="stretch plain" src="/intro-python/images/05/error2.png">
 </section>
 
 <section>
@@ -195,7 +195,7 @@ while(not ((player == 1 and guess == p1_secret) or
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/05/correct1.png">
+	<img class="stretch plain" src="/intro-python/images/05/correct1.png">
 </section>
 
 <section>

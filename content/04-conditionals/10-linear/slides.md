@@ -4,7 +4,7 @@ hidden: true
 ---
 
 <section>
-	<img class="stretch plain" src="/images/04/rps.svg">
+	<img class="stretch plain" src="/intro-python/images/04/rps.svg">
     <p class="imagecredit">Image Credit: <a href="https://commons.wikimedia.org/w/index.php?title=File:Rock-paper-scissors.svg&oldid=513212597">Wikimedia</a></p>
 </section>
 
@@ -75,7 +75,7 @@ p2 = input("Enter \"rock\", \"paper\", or \"scissors\" for player 2: ")<br>
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/04/linear.svg">
+	<img class="stretch plain" src="/intro-python/images/04/linear.svg">
 </section>
 
 <section>

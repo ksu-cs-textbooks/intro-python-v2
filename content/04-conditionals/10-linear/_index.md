@@ -4,13 +4,13 @@ pre: "10. "
 weight: 100
 ---
 
-{{% youtube 0F_0LtXBgtQ %}}
+{{< youtube 0F_0LtXBgtQ  >}}
 
 <!-- Old: hTgZVE7kMq4 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Conditional statements are a very powerful tool for programmers to use. So far in this lab, we've explored simple conditional statements, including the if statement and if-else statement in Python. However, up to this point we've only looked at how we can use a single conditional statement at a time in a program, which can be very limiting. Now we're going to explore how we can combine conditional statements in a variety of different ways to build even more complex programs. These combined, or **nested** conditional statements, are commonly used across all programming languages, but learning how to build and debug them takes time and practice. We'll work through several examples, and then you'll get a chance to try it yourself.
 

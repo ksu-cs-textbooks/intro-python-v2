@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube x3_5TdV7uZE %}}
+{{< youtube x3_5TdV7uZE  >}}
 
 <!-- Old: eLcFDbHMIKU -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 ## Function Parameters
 

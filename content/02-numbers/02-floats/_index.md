@@ -4,11 +4,11 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube 1Zy_rkTbwow %}}
+{{< youtube 1Zy_rkTbwow  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 The other type of number we can store in Python is a **floating-point** number. We won't go into too much detail about floating-point values here, since you'll learn about them elsewhere in this class. For the purposes of programming, the only thing to know about floating-point numbers is that they are used to represent numbers that include a fractional or decimal portion. In Python, these values are stored in the **`float`** data type. 
 

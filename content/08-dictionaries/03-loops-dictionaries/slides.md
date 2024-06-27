@@ -16,7 +16,7 @@ hidden: true
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/08/output1.png">
+	<img class="stretch plain" src="/intro-python/images/08/output1.png">
 </section>
 
 <section>
@@ -32,5 +32,5 @@ hidden: true
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/08/output1.png">
+	<img class="stretch plain" src="/intro-python/images/08/output1.png">
 </section>

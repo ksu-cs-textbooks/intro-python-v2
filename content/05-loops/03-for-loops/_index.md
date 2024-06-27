@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube MkwFVwOoFCY %}}
+{{< youtube MkwFVwOoFCY  >}}
 
 <!-- Old: _XArnG4R6r4 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python also includes a second type of loop that is very useful, the **for loop**. A for loop is used when we want to repeat the steps a certain number of times. However, in Python, we can't just say that we want to repeat something {{< math >}}$ 10 ${{< /math >}} times. Instead, we use the built-in `range()` function in Python to generate a list of numbers that we use in our loop. Then, our for loop will repeat once for each number in the list, and we can even access that number using an **iterator variable**
 

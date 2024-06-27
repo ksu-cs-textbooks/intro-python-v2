@@ -6,11 +6,11 @@ weight: 60
 
 <!-- EAV raw complete -->
 
-{{% youtube 1MUxdVRemk4 %}}
+{{< youtube 1MUxdVRemk4  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we've learned all about using loops in Python, let's go through a complete worked example to see how all the pieces fit together. As we continue to develop larger and more complex programs, it is helpful to observe the entire process from start to finish so we can see how to easily develop a program one step at a time. Once we've created our program, we'll also perform a bit of testing to make sure that it works correctly.
 

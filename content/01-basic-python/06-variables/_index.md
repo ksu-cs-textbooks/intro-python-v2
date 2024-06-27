@@ -4,13 +4,13 @@ pre: "6. "
 weight: 60
 ---
 
-{{% youtube EwXHUdYOA6A %}}
+{{< youtube EwXHUdYOA6A  >}}
 
 <!-- Old: _iuCFOGvtP0 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Now that we've learned how to use the `print(expression)` statement, let's focus on the next major concept in Python, as well as any other programming language: **variables**. 
 

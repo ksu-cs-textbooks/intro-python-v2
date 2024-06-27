@@ -38,7 +38,7 @@ main()
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/output2.png">
+	<img class="stretch plain" src="/intro-python/images/07/output2.png">
 </section>
 
 <section>

@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube 9eI_Cxoekgw %}}
+{{< youtube 9eI_Cxoekgw  >}}
 
 <!-- Old: a_CcsdoY3-o -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Python also includes several operators that can be applied to one or two Boolean values. These operators make up the basis of Boolean logic, and allow us to construct complex expressions of Boolean values. Let's quickly review the three basic Boolean operators present in Python.
 

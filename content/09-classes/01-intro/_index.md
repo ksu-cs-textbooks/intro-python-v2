@@ -4,11 +4,11 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube  %}}
+{{< youtube noid  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 We've explored many ways to store data in our programs, from simple variables all the way to complex data structures such as lists and dictionaries. The real world, however, isn't made up of lists and dictionaries, but **objects** that may have several **attributes** that describe the object, as well as several **functions** that the object can perform or that can be performed using the object. So, it would be very useful for us to have a way to represent those concepts directly in our programs. 
 

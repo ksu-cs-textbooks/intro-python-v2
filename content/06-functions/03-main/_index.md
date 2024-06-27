@@ -4,13 +4,13 @@ pre: "3. "
 weight: 30
 ---
 
-{{% youtube Jv59-FW3UOY %}}
+{{< youtube Jv59-FW3UOY  >}}
 
 <!-- Old: eLcFDbHMIKU -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Let's review a couple other concepts related to functions in Python.
 

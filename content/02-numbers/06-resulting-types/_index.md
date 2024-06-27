@@ -4,11 +4,11 @@ pre: "6. "
 weight: 60
 ---
 
-{{% youtube 89S89k9VowA %}}
+{{< youtube 89S89k9VowA  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Since Python has multiple numeric data types, there are some rules that govern which data type is produced as a result of various math operations. Thankfully, the rules themselves are pretty straightforward once they are explained.
 

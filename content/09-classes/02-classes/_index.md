@@ -4,11 +4,11 @@ pre: "2. "
 weight: 20
 ---
 
-{{% youtube  %}}
+{{< youtube noid  >}}
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 First, let's look at how we can create our own classes in Python. A **class** is a special construct in programming that forms the blueprint for something that represents a some sort of object, such as real-world objects like a person, car, or even abstract objects such as a user interface in a video game. Classes contain two different types of content, the **attributes**, or variables, that store data related to the class, and the **methods**, or functions, that describe the behavior of the class. 
 

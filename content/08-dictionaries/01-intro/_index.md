@@ -4,13 +4,13 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube ID3U2BpUTQs %}}
+{{< youtube ID3U2BpUTQs  >}}
 
 <!-- Old: RnwIej2eA-o -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Previously, we learned how we can use lists in Python to store multiple values, or elements, in a single variable. Each element in a list is given an index, which allows us to uniquely reference and identify each element's position in a list. Python lists use consecutive integers starting at {{< math >}}$ 0 ${{< /math >}} as indexes, which makes for a pretty easy to use data structure.
 

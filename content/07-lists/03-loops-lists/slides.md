@@ -16,7 +16,7 @@ main()
 </section>
 
 <section>
-	<img class="stretch plain" src="/images/07/output1.png">
+	<img class="stretch plain" src="/intro-python/images/07/output1.png">
 </section>
 
 <section>

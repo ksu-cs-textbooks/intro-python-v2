@@ -56,7 +56,7 @@ Hello Willie Wildcat
 </code></pre>
 </section>
 <section>
-	<img class="plain stretch" src="/images/03/terminal1.png">
+	<img class="plain stretch" src="/intro-python/images/03/terminal1.png">
     <br><br>
-    <img class="plain stretch" src="/images/03/terminal2.png">
+    <img class="plain stretch" src="/intro-python/images/03/terminal2.png">
 </section>

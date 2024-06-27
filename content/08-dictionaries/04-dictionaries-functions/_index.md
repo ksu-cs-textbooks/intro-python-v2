@@ -4,13 +4,13 @@ pre: "4. "
 weight: 40
 ---
 
-{{% youtube Th1mLcRMrg4 %}}
+{{< youtube Th1mLcRMrg4  >}}
 
 <!-- Old: rfu-L9icMX8 -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 Finally, let's briefly look at how dictionaries operate when used as parameters to functions in Python. As we can probably guess from the earlier example in Python Tutor, dictionaries also use **call by reference**, just like lists.
 

@@ -4,13 +4,13 @@ pre: "1. "
 weight: 10
 ---
 
-{{% youtube OILt5WnkD2M %}}
+{{< youtube OILt5WnkD2M  >}}
 
 <!-- Old: 7z8k8IkYBRE -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 So far, we've worked with many different programming structures, including functions, if statements, loops, and more. However, so far we've been a bit limited in how much data we can easily store. This is because a traditional variable can only store one value at a time!
 

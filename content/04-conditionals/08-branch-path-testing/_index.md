@@ -4,13 +4,13 @@ pre: "8. "
 weight: 80
 ---
 
-{{% youtube huRCSyfTvpY %}}
+{{< youtube huRCSyfTvpY  >}}
 
 <!-- Old: hbIWocoRY4U -->
 
 #### Resources
 
-* <a href="{{<relref "./slides">}}" target="_blank">Slides</a>
+* <a href="{{% relref "./slides" %}}" target="_blank">Slides</a>
 
 One important concept to understand when writing if statements and if-else statements is the **control flow** of the program. Before we learned about conditional statements, our programs had a linear control flow - there was exactly one pathway through the program, no matter what. Each time we ran the program, the same code would be executed each time in the same order. However, with the introduction of conditional statements, this is no longer the case.
 
