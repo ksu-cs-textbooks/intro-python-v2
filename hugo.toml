@@ -1,6 +1,6 @@
 # Base URL where the site will be hosted
 # TODO changeme
-baseURL = "https://textbooks.cs.ksu.edu/intro-python"
+baseURL = "https://textbooks.cs.ksu.edu/intro-python-v2"
 # Default language for the site
 languageCode = "en-us"
 # Site Title
@@ -171,7 +171,7 @@ cleanDestinationDir = true
   # in the pages frontmatter. This is useful if you want to give the opportunity
   # for people to create merge request for your content.
   # TODO changeme
-  editURL = "https://github.com/ksu-cs-textbooks/intro-python/edit/main/content/${FilePath}"
+  editURL = "https://github.com/ksu-cs-textbooks/intro-python-v2/edit/main/content/${FilePath}"
 
   #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   # Menu
@@ -484,7 +484,7 @@ cleanDestinationDir = true
   # This is for linking directly to the GitHub Commit where the most recent
   # edit on a page was made. 
   # TODO changeme
-  commitURL = "https://github.com/ksu-cs-textbooks/intro-python/commit/"
+  commitURL = "https://github.com/ksu-cs-textbooks/intro-python-v2/commit/"
 
 [markup]
   [markup.highlight]
