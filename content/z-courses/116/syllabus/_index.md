@@ -18,24 +18,41 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 **Please allow at least one full business day for responses to any inquiry.**
 {{% /notice %}}
 
-**Professor:**  Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
+**Professor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu) (teaches sections B/D/F)
 
-- **Office:** 2214 Engineering Hall (DUE)
-- **Office Hours:** weeser.net/calendar
-  - **Want to meet with me outside office hours?** https://calendly.com/weeser
+-   **Office:** 2161 Engineering Hall (DUE)  
+    **Office Hours:** safiamalallah.com/calendar
+    -   **Want to meet with me outside office hours?** https://calendly.com/safiamalallah
+
+**Professor:** Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
+
+-   **Office:** 2214 Engineering Hall (DUE)
+-   **Office Hours:** weeser.net/calendar
+    -   **Want to meet with me outside office hours?** https://calendly.com/weeser
 
 **Undergraduate Teaching Assistants**
-*All TA office hours can be found on the embedded calendar below.*
-| **Name**                          | **Section** |
-| --------------------------------- | ----------- |
-| placeholder                     | -- |
+*All TA office hours can be found on the embedded calendar below. Please try to not email TAs directly for general questions (use Ed Discussion or the help email instead). The sections listed below are the class sections each TA is assigned to; however, you may attend ANY TA's office hours regardless of section.*
+
+| **Name**                         | **Section**  | **Email** |
+| ---------------------------------| ------------ | ----------- |
+| Carrie Aponte	                   |  Online      | cgaponte@ksu.edu  |
+| Cole James	                     |  Online      | colej5095@ksu.edu |
+| Zyada Mekonnen                   |  D/E         | ztmekonnen@ksu.edu|
+| Vinny Sun	                       |  B/D         | vinnysun1@ksu.edu |
+| Mason Vick	                     |  A/E         | mtvick@ksu.edu    |
+| Jess Whyrick	                   |  A/C/F       | jlwhyrick@ksu.edu |       
 
 <br/>
 
 ### Course Schedule
-
- - placedholder
-
+*All sections will be in DUE 1117.*
+ - A (T)  8:05am - 9:55am
+ - B (T) 10:55am - 12:45pm
+ - C (U)  8:05am - 9:55am
+ - D (U) 10:55am - 12:45pm
+ - E (W)  8:30am - 10:20am
+ - F (W) 10:30am - 12:20pm
+ 
 ### Office Hours
 
 <iframe src="google.com/calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -122,7 +139,7 @@ If you need help getting started with the platform, please go through the follow
 
 #### Attendance and Participation in Class Activities
 
-**Attendance in class is required**. The majority of class periods will include hands-on/group activities to be completed in class that will help illustrate the topic of the day. Collaborating and communicating with others in the class is a large part of these activities and is encouraged. Participating in each of these activities is key to learning, so failing to attend class or complete in-class activities and labs will result in a reduced grade for that day’s work. ***Simply attending class does not guarantee that you will receive points\***
+**Attendance in class is required**. The majority of class periods will include hands-on programming activities to be completed in class that will help understand the topic of the day. Collaborating and communicating with others in the class is a large part of these activities and is encouraged. Participating in each of these activities is key to learning, so failing to attend class or complete in-class activities and labs will result in a reduced grade for that day’s work. ***Simply attending class does not guarantee that you will receive points\***
 
 **Face coverings** are not required; however, they are encouraged if you are feeling ill. (See general face coverings policy down below)
 
@@ -149,10 +166,9 @@ There will be some programming that must be completed outside of class. It is ac
 #### Grading
 - 25% - Programming Labs (*Lowest lab is dropped*)
 - 20% - Programming Homework 
-- 65% - Exams/Quizzes (*Lowest two Quiz scores are dropped*)
-  - 15% quizzes
-  - 25% midterm
-  - 25% final
+- 10% - Quizzes (*Lowest two Quiz scores are dropped*)
+- 25% - Midterm exam
+- 25% - Final exam
 
 Letter grades will be assigned following the standard scale: 
 
@@ -187,4 +203,4 @@ We are part of the SafeZone community network of trained K-State  faculty/staff/
 The details in this syllabus are not set in stone. Due to the flexible nature of this class, adjustments may need to be made as the semester progresses, though they will be kept to a minimum. If any changes occur, the changes will be posted on the K-State Canvas page for this course and emailed to all students.
 
 ## Copyright Notification 
-Copyright 2023 (Joshua L. Weese) as to this syllabus, all lectures, and course content. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
+Copyright 2024 (Joshua L. Weese) as to this syllabus, all lectures, and course content. During this course students are prohibited from selling notes to or being paid for taking notes by any person or commercial firm without the express written permission of the professor teaching this course. In addition, students in this class are not authorized to provide class notes or other class-related materials to any other person or entity, other than sharing them directly with another student taking the class for purposes of studying, without prior written permission from the professor teaching this course.
