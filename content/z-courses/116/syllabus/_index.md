@@ -55,11 +55,11 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
  
 ### Office Hours
 
-<iframe src="google.com/calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #777;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FChicago&amp;mode=WEEK&amp;showPrint=0&amp;src=azJ2azdlZGNmbWVhYmViZ3BwMWdiY2EzdDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=anRkNzhxY29zNTl2a3NpaGs3NGVqZWgwY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MWZmcTd1N2RkM2Z0dDFycms2N2YzcHY4cGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457&amp;color=%23B39DDB&amp;color=%23616161&amp;color=%23009688" width="800" height="600"></iframe>
 
 ### Required Texts (No purchases required)
 - "Introduction to Python" https://textbooks.cs.ksu.edu/intro-python/
-- “A Byte of Python” by Swwaroop C.H.
+- "A Byte of Python" by Swwaroop C.H.
     - This book is free! Its accessed at https://python.swaroopch.com/ 
     - Download: https://github.com/swaroopch/byte-of-python/releases/latest 
 - "CS Zero: An Introduction to Computing Science" https://textbooks.cs.ksu.edu/cs-zero/
