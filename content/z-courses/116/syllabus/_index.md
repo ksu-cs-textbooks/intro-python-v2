@@ -165,7 +165,7 @@ There will be some programming that must be completed outside of class. It is ac
 
 #### Grading
 - 25% - Programming Labs (*Lowest lab is dropped*)
-- 20% - Programming Homework 
+- 15% - Programming Homework 
 - 10% - Quizzes (*Lowest two Quiz scores are dropped*)
 - 25% - Midterm exam
 - 25% - Final exam
