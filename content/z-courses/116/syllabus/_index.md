@@ -11,7 +11,7 @@ pre: ""
 
 {{% notice info %}}
 
-Our **preferred method of contact** will be through the [Edstem Discussion board](https://google.com). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
+Our **preferred method of contact** will be through the [Edstem Discussion board](https://k-state.instructure.com/courses/167107/external_tools/21856?display=borderless). Any questions or feedback can be posted there. More detail on using this platform can be found below and in Canvas.
 
 **All emails** for the course should be sent to [cis116-help@KSUemailProd.onmicrosoft.com](mailto:cis116-help@KSUemailProd.onmicrosoft.com?subject=CIS%20116%20Help) (sorry I know it’s a long address). This will contact the professors and ALL the TAs for the course and guarantee the fastest response time if contacting via email. You are welcome to send emails that may contain more sensitive information directly to intended recipients.
 
