@@ -2,6 +2,7 @@
 title: "String Operators"
 pre: "3. "
 weight: 30
+url: "strings-input/string-ops"
 ---
 
 {{< youtube k14bakCbKTw  >}}

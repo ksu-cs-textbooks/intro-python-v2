@@ -2,6 +2,7 @@
 title: "Input Practice"
 pre: "6. "
 weight: 60
+url: "strings-input/input-practice"
 ---
 
 Let's try some simple practice problems. These problems are not graded - they are just for you to practice before doing the real exercises in the lab itself. You can find the answers below each question by clicking the button below each question.

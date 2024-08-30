@@ -2,6 +2,7 @@
 title: "Numerical Input"
 pre: "2. "
 weight: 20
+url: "strings-input/input-numbers"
 ---
 
 {{< youtube D6HF7S_J_i8  >}}

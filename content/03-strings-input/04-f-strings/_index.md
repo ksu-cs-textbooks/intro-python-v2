@@ -2,6 +2,7 @@
 title: "F-Strings"
 pre: "4. "
 weight: 40
+url: "strings-input/f-strings"
 ---
 
 {{< youtube xrClRO_OQg8  >}}

@@ -2,6 +2,7 @@
 title: "Summary"
 pre: "7. "
 weight: 70
+url: "strings-input/summary"
 ---
 
 ## Python input

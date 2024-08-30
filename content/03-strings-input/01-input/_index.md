@@ -2,6 +2,7 @@
 title: "Input"
 pre: "1. "
 weight: 10
+url: "strings-input/input"
 ---
 
 {{< youtube iLuRm6d3pDc  >}}
