@@ -27,7 +27,7 @@ Enter your name: Willie Wildcat
 Hello Willie Wildcat
 ```
 
-There are many important parts to this example, so let's look at each one individually. First, in the `print()` statement, we see the string `"Hello {name}"`. This is an example of a **template string**, which includes a set of curly braces `{}` as **placeholders** for data to be inserted. Each template string can have unlimited sets of curly braces. Inside of each set of curly braces, we can place the variable or expression that will be printed at that location. 
+There are many important parts to this example, so let's look at each one individually. First, in the `print()` statement, we see the string `"Hello {name}"`. This is an example of a **template string**, which includes a set of curly braces `{}` as **placeholders** for data to be inserted. Each template string can have unlimited sets of curly braces. Inside of each set of curly braces, we can place the variable or expression that will be substituted at that location as a string. 
 
 Also, we notice that in front of the string, we see the character `f`. Preceding a string with `f` outside of the quotation marks will denote the string as an f-string (hence the name), which allows the values inside to be **interpolated**. Interpolation is the term used when formatting marks in a string, such as the curly braces in an f-string, are interpreted and replaced with the correct values they represent.
 
@@ -37,6 +37,7 @@ Python f-strings can do many powerful things, such as handle more complex format
 
 {{% /notice %}}
 
+## Formatting Numbers
 The most powerful use of f-strings is to insert numerical values directly into strings without having to convert each value directly to the `str` data type - the interpolation process handles this for us.
 
 For example, we can update our previous program to use f-strings to display the output in a single `print()` statement, and we can also add additional information with ease:
@@ -58,7 +59,22 @@ Enter the quantity of items: 3
 3 items at $2.75 each is $8.25 total
 ```
 
-This example shows how easy it is to build complex output strings using f-strings.
+This example shows how easy it is to build complex output strings using f-strings. We can expand the template syntax to even round numbers. `f"{.2f}"` allows us to format a number to two decimal places. The `2` represents the number of places you want to round to and the 'f' inside the curly brackets indicates that you are trying to format the number as a floating point number.
+
+```python
+text_one = input("Enter Numerator:")
+numerator = float(text_one)
+text_one = input("Enter Denominator:")
+denominator = float(text_one)
+result = numerator / denominator
+print(f"{numerator} divided by {denominator}, rounded to two decimal places is {result:.2f}")
+```
+
+```tex
+Enter Numerator: 2
+Enter Numerator: 3
+2.0 divided by 3.0, rounded to two decimal places is 0.67
+```
 
 {{% notice info "Format Method" %}}
 

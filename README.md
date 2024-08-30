@@ -19,6 +19,7 @@ This is a [Hugo](https://gohugo.io/)-based web framework for K-State CS lecture 
 * Clone the repository using Git: `git clone <url>`
 * Open the directory: `cd <directory>`
 * Run the site using Hugo : `hugo serve`
+* * May need to use `hugo server --disableFastRender` to avoid a dev bug regarding the `url` tag for pages 
 
 Hugo should automatically download the relevant theme module. No additional configuration is needed.
 

@@ -64,7 +64,17 @@ Traceback (most recent call last):
 TypeError: must be str, not float
 ```
 
-So, we'll have to be careful and make sure that we convert all of our numbers to strings before trying to concatenate them together. Of course, if both sides of the `+` operator are numbers, then it will perform addition instead of concatenation!
+So, we'll have to be careful and make sure that we convert all of our numbers to strings before trying to concatenate them together. Of course, if both sides of the `+` operator are numbers, then it will perform addition instead of concatenation! There are better ways to concatenate strings though, but we will cover this in another section. For now, the `+` operator is a quick an easy way to get the job done!
+
+{{% notice note "using str()" %}}
+  We won't always need to explicitly use the `str()` function to convert another datatype into a string. If you are printing something other than a string directly using `print`, for example, python will implicitly use `str` for you.
+  ```python
+  x = 10
+  print(x)
+  # python will implicitly do the following instead
+  # print(str(x))
+  ```
+{{% /notice %}}
 
 ## Repeat
 
