@@ -76,6 +76,21 @@ Enter Numerator: 3
 2.0 divided by 3.0, rounded to two decimal places is 0.67
 ```
 
+If we add a comma into the template string `f"{,.2f}"` , we can automatically format in commas for thousands, millions, etc. For example:
+
+```python
+text_one = input("Enter the price of one item: ")
+price = float(text_one)
+text_two = input("Enter the quantity of items: ")
+quantity = int(text_two)
+cost = price * quantity
+print(f"{quantity} items at ${price:,.2f} each is ${cost:,.2f} total")
+```
+
+```tex
+300 items at $2,500.45 each is $750,135.00 total
+```
+
 {{% notice info "Format Method" %}}
 
 Prior to the introduction of f-strings, it was common to use the `format()` method to place values inside of a template string. The last line of the previous example would look like this using the format method:
