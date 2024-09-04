@@ -21,8 +21,8 @@ Our **preferred method of contact** will be through the [Edstem Discussion board
 **Professor:** Dr. Safia Malallah (she/her) – [safia@ksu.edu](mailto:safia@ksu.edu) (teaches sections B/D/F)
 
 -   **Office:** 2161 Engineering Hall (DUE)  
-    **Office Hours:** safiamalallah.com/calendar
-    -   **Want to meet with me outside office hours?** https://calendly.com/safiamalallah
+    **Office Hours:** More information can be found in the calendar below 
+    -   **Want to meet with me outside office hours?** <a href='https://outlook.office.com/bookwithme/user/2d1b7aa5485444a6a79e6554e7f71d03@ksu.edu?anonymous&ep=plink'>Schedule online</a>
 
 **Professor:** Dr. Josh Weese (he/him) – [weeser@ksu.edu](mailto:weeser@ksu.edu) (teaches sections A/C/E )
 
