@@ -8,4 +8,10 @@ weight = 999
 ordinal = "H"
 +++
 
-Just some hidden pages below here.
+Just some hidden pages below here. testing stuffz
+
+{{< pyscript >}}
+print("Hello World")
+name = input("What is your name? ")
+print(f"Hello {name}!")
+{{< /pyscript >}}
