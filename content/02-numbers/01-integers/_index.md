@@ -4,7 +4,7 @@ pre: "1. "
 weight: 10
 ---
 
-{{< youtube u7UKG-BAbGI  >}}
+{{< youtube u7UKG-BAbGI >}}
 
 #### Resources
 
